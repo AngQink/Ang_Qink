@@ -1,0 +1,8 @@
+{"ok":true}
+{"possible":true,"cost":2,"infinite":true,"ways":null,"witness":{"nodes":1,"sha256":"11be2739cb377e2f5a91e4ee7a924cf46106141698e1d55c5fcda36304e0f20d","at":[null,null,null,null]}}
+{"possible":false}
+{"possible":true,"cost":2,"infinite":true,"ways":null,"witness":{"nodes":1,"sha256":"11be2739cb377e2f5a91e4ee7a924cf46106141698e1d55c5fcda36304e0f20d","at":[null,null,null,null]}}
+{"ok":true}
+{"possible":false}
+{"ok":true}
+{"possible":false}

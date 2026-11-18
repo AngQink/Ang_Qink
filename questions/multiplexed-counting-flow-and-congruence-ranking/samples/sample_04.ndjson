@@ -1,0 +1,17 @@
+{"op":"tide_init","vertices":3,"balance":[0,0,0],"edges":[{"id":2,"u":2,"v":2,"lo":1,"hi":1,"cost":1},{"id":18,"u":0,"v":0,"lo":2,"hi":2,"cost":3}]}
+{"op":"mirror_init","colors":2,"inventory_mod":1,"mod":3,"mirror":[1,0],"weights":[0,0],"edges":[[true,true],[true,true]]}
+{"op":"dyadic_init","variables":3,"bits":3,"q":[[3,2,0],[0,1,2],[0,0,1]],"linear":[1,4,1],"constant":7}
+{"op":"mirror_weight","color":0,"value":0}
+{"op":"dyadic_quad","i":2,"j":2,"value":-12}
+{"op":"tide_patch","edges":[[18,0,5,0]],"balance":[]}
+{"op":"tide_patch","edges":[[2,2,4,1]],"balance":[]}
+{"op":"tide_solve","pins":[],"inspect":[18]}
+{"op":"ink_init","nonterminals":3,"mod":6,"rules":[{"id":0,"lhs":2,"rhs":["a"],"cost":2,"enabled":true},{"id":3,"lhs":2,"rhs":[0],"cost":2,"enabled":true},{"id":6,"lhs":2,"rhs":[1],"cost":0,"enabled":true},{"id":7,"lhs":1,"rhs":["b"],"cost":2,"enabled":true},{"id":10,"lhs":2,"rhs":[0,1],"cost":0,"enabled":true},{"id":12,"lhs":1,"rhs":[],"cost":0,"enabled":true}]}
+{"op":"ink_enable","id":6,"value":true}
+{"op":"dyadic_solve","target":6,"locks":[[0,0],[1,0],[3,3]],"witness":false}
+{"op":"ink_weight","id":0,"cost":2}
+{"op":"ink_parse","start":0,"word":"aab","at":[8]}
+{"op":"ink_parse","start":1,"word":"abb","at":[]}
+{"op":"euler_init","vertices":2,"mod_factors":[[3,1]],"edges":[[1,1],[1,2]]}
+{"op":"euler_cycle","vertices":[1],"delta":0}
+{"op":"euler_count","gcd_factors":[],"rotations":[15],"prefixes":[[0],[1,1,0],[],[]],"at":[]}

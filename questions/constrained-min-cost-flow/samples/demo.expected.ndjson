@@ -1,0 +1,14 @@
+{"ok":true}
+{"ok":true}
+{"possible":true,"cost":6,"flow":[[3,0],[22,3]],"ranges":[[1,3],[0,2],[1,3]]}
+{"ok":true}
+{"ok":true}
+{"possible":true,"cost":-1,"flow":[[3,0],[22,1]],"ranges":[[1,1],[0,0]]}
+{"ok":true}
+{"possible":true,"cost":6,"flow":[[3,0],[22,3]],"ranges":[[1,3],[0,2]]}
+{"ok":true}
+{"possible":true,"cost":6,"flow":[[3,0],[22,3]],"ranges":[[0,0]]}
+{"ok":true}
+{"possible":true,"cost":6,"flow":[[3,0],[22,3]],"ranges":[[0,2]]}
+{"ok":true}
+{"possible":true,"cost":-1,"flow":[[3,0],[22,1]],"ranges":[[1,1]]}

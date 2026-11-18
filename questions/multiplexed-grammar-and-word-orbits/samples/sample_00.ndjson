@@ -1,0 +1,8 @@
+{"op":"ink_init","nonterminals":2,"rules":[{"id":0,"lhs":0,"rhs":[0,0],"cost":0,"enabled":true},{"id":17,"lhs":0,"rhs":["a"],"cost":2,"enabled":true},{"id":18,"lhs":0,"rhs":[],"cost":0,"enabled":true},{"id":19,"lhs":1,"rhs":[],"cost":0,"enabled":true}],"mod":9223372036854775807}
+{"op":"ink_parse","start":0,"word":"a","at":[7,982029435949976112,663408710816075978,31]}
+{"op":"ink_parse","start":0,"word":"bacc","at":[428284511555976687,27,5,712329979462444334]}
+{"op":"ink_parse","start":0,"word":"a","at":[5,34,7,15]}
+{"op":"ink_save","slot":0}
+{"op":"ink_parse","start":1,"word":"b","at":[718107112605020120,136383301299135799,457630511363696656,699488253734145073,743999878573960264]}
+{"op":"ink_weight","id":19,"cost":9223372036854775807}
+{"op":"ink_minways","start":0,"word":"bbbd"}

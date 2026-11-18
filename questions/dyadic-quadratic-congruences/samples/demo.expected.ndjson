@@ -1,0 +1,11 @@
+{"ok":true}
+{"ok":true}
+{"possible":true,"count":24,"witness":{"values":[4,1],"sha256":"480629ac00a8ca36102e0841b172d41656a145acc6f45b02574d9db17b1d5fcc"}}
+{"ok":true}
+{"possible":true,"count":32,"witness":{"values":[1,2],"sha256":"d2299f6e38d7cb2cbdd3d187e056c4e46c9d3bda5736618af411552a210de139"}}
+{"ok":true}
+{"possible":true,"count":24,"witness":{"values":[4,1],"sha256":"480629ac00a8ca36102e0841b172d41656a145acc6f45b02574d9db17b1d5fcc"}}
+{"ok":true}
+{"possible":true,"count":24,"witness":{"values":[1,2],"sha256":"d2299f6e38d7cb2cbdd3d187e056c4e46c9d3bda5736618af411552a210de139"}}
+{"ok":true}
+{"possible":true,"count":24,"witness":{"values":[4,1],"sha256":"480629ac00a8ca36102e0841b172d41656a145acc6f45b02574d9db17b1d5fcc"}}

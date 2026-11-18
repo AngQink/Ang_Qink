@@ -1,0 +1,15 @@
+{"ok":true}
+{"ok":true}
+{"ok":true}
+{"ok":true}
+{"ok":true}
+{"ok":true}
+{"ok":true}
+{"ok":true}
+{"ok":true}
+{"ok":true}
+{"possible":false,"count":0,"witness":null}
+{"possible":true,"cost":-4,"flow":[[15,4]],"ranges":[[4,4],[4,4],[4,4],[4,4]]}
+{"ok":true}
+{"possible":true,"length":5,"words":5,"necklaces":1,"periods":[{"period":5,"words":5,"necklaces":1}],"fixed_rotations":[0],"prefix_counts":[5,2,0,1],"witness":{"sha256":"40f8a90a79ae41c0b2e9805ec02673b77b14ef573187950b3d39c72a767960d8","at":[]}}
+{"length":5,"words":1,"necklaces":1,"bracelets":1,"periods":[{"period":1,"words":1,"necklaces":1,"bracelets":1},{"period":5,"words":0,"necklaces":0,"bracelets":0}],"fixed":{"rotations":[1,1,1],"mirrors":[1,1]}}

@@ -1,0 +1,15 @@
+{"op":"dyadic_init","variables":4,"bits":1,"q":[[1,1,0,2],[0,0,1,0],[0,0,1,0],[0,0,0,3]],"linear":[1,1,0,0],"constant":1}
+{"op":"ink_init","nonterminals":1,"mod":2,"rules":[{"id":0,"lhs":0,"rhs":[0],"cost":1,"enabled":true},{"id":3,"lhs":0,"rhs":[0,0],"cost":1,"enabled":true},{"id":5,"lhs":0,"rhs":["b"],"cost":1,"enabled":true}]}
+{"op":"euler_init","vertices":3,"mod_factors":[[2,2]],"edges":[[0,1,0],[0,0,1],[1,0,1]]}
+{"op":"euler_save","slot":2}
+{"op":"ink_parse","start":0,"word":"a","at":[4,3,8]}
+{"op":"ink_save","slot":0}
+{"op":"mirror_init","colors":1,"inventory_mod":1,"mod":3,"mirror":[0],"weights":[0],"edges":[[true]]}
+{"op":"mirror_orbit","factors":[],"residue":0,"rotations":[2,0,3],"mirrors":[0,2,3]}
+{"op":"dyadic_constant","value":0}
+{"op":"ink_parse","start":0,"word":"ab","at":[9,1,8]}
+{"op":"dyadic_solve","target":0,"locks":[[1,1],[1,0],[0,0],[0,0]],"witness":false}
+{"op":"ink_weight","id":3,"cost":2}
+{"op":"euler_save","slot":1}
+{"op":"euler_save","slot":1}
+{"op":"euler_count","gcd_factors":[],"rotations":[11,13,8],"prefixes":[[]],"at":[2]}

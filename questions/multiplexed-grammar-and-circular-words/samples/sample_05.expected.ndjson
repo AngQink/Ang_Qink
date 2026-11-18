@@ -1,0 +1,11 @@
+{"ok":true}
+{"ok":true}
+{"ok":true}
+{"ok":true}
+{"possible":false}
+{"ok":true}
+{"possible":true,"length":200000,"words":2,"necklaces":1,"periods":[{"period":8,"words":2,"necklaces":1},{"period":16,"words":0,"necklaces":0},{"period":32,"words":0,"necklaces":0},{"period":40,"words":0,"necklaces":0},{"period":64,"words":0,"necklaces":0},{"period":80,"words":0,"necklaces":0},{"period":160,"words":0,"necklaces":0},{"period":200,"words":0,"necklaces":0},{"period":320,"words":0,"necklaces":0},{"period":400,"words":0,"necklaces":0},{"period":800,"words":0,"necklaces":0},{"period":1000,"words":0,"necklaces":0},{"period":1600,"words":0,"necklaces":0},{"period":2000,"words":0,"necklaces":0},{"period":4000,"words":0,"necklaces":0},{"period":5000,"words":0,"necklaces":0},{"period":8000,"words":0,"necklaces":0},{"period":10000,"words":0,"necklaces":0},{"period":20000,"words":0,"necklaces":0},{"period":25000,"words":0,"necklaces":0},{"period":40000,"words":0,"necklaces":0},{"period":50000,"words":0,"necklaces":0},{"period":100000,"words":0,"necklaces":0},{"period":200000,"words":0,"necklaces":0}],"fixed_rotations":[2],"prefix_counts":[],"witness":{"sha256":"5c42040fc90adddfa1034c939f6247c1d4a292b4a38585dbd00006ad214faa13","at":[5,2,6,4]}}
+{"ok":true}
+{"possible":false}
+{"possible":false}
+{"possible":false}

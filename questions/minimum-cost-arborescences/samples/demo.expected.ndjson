@@ -1,0 +1,2 @@
+{"ok":true}
+{"possible":true,"cost":7,"count":4,"at":[[2,3],[9,3],null],"probes":[{"before":1,"member":false},{"before":3,"member":true},{"before":2,"member":false}],"uses":[2,2,0]}

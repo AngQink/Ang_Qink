@@ -1,0 +1,10 @@
+{"ok":true}
+{"n":3,"best":{"weight":0,"ways":1},"out":{"weight":0,"ways":0},"in":{"weight":0,"ways":1}}
+{"connected":true,"possible":true,"weight":0,"ways":0}
+{"connected":true,"possible":true,"weight":0,"ways":1}
+{"ok":true}
+{"n":3,"best":{"weight":0,"ways":0},"out":{"weight":0,"ways":0},"in":{"weight":-7,"ways":1}}
+{"ok":true}
+{"connected":false}
+{"ok":true}
+{"n":3,"best":{"weight":0,"ways":3},"out":{"weight":0,"ways":2},"in":{"weight":0,"ways":1}}

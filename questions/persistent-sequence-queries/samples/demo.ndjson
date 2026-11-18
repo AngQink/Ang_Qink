@@ -1,0 +1,10 @@
+{"op":"new","values":[2,5,7]}
+{"op":"edit","v":1,"l":1,"r":3,"a":2,"b":3,"c":4}
+{"op":"reverse","v":2,"l":0,"r":3}
+{"op":"query","v":1,"l":0,"r":3}
+{"op":"query","v":3,"l":0,"r":3}
+{"op":"concat","left":3,"right":3}
+{"op":"splice","v":4,"l":1,"r":5,"src":4,"sl":0,"sr":3}
+{"op":"query","v":5,"l":0,"r":5}
+{"op":"drop","v":3}
+{"op":"at","v":4,"i":3}

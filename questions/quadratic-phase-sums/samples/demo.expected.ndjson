@@ -1,0 +1,7 @@
+{"ok":true}
+{"possible":true,"free":1,"first":"0","amplitude":{"zero":false,"power":1,"phase":1}}
+{"ok":true}
+{"ok":true}
+{"possible":true,"free":1,"first":"0","amplitude":{"zero":true}}
+{"possible":true,"free":1,"first":"0","amplitude":{"zero":false,"power":2,"phase":0}}
+{"possible":false}

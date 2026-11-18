@@ -1,0 +1,10 @@
+{"op":"euler_init","vertices":1,"mod_factors":[[7,1]],"edges":[[2]]}
+{"op":"ink_init","nonterminals":2,"mod":6,"rules":[{"id":0,"lhs":1,"rhs":["b"],"cost":0,"enabled":true},{"id":3,"lhs":0,"rhs":[1,0],"cost":1,"enabled":true}]}
+{"op":"euler_save","slot":0}
+{"op":"ink_enable","id":0,"value":false}
+{"op":"euler_save","slot":2}
+{"op":"euler_save","slot":2}
+{"op":"ink_parse","start":1,"word":"bb","at":[]}
+{"op":"euler_count","gcd_factors":[[2,1]],"rotations":[2,6,8],"prefixes":[],"at":[3,2]}
+{"op":"ink_save","slot":0}
+{"op":"euler_save","slot":0}

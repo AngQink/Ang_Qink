@@ -1,0 +1,9 @@
+{"op":"init","mod":12}
+{"op":"make","dst":0,"dim":1,"a":[[6]],"b":[6]}
+{"op":"ask","src":0}
+{"op":"map","src":0,"dst":1,"a":[[6]],"b":[0]}
+{"op":"ask","src":1}
+{"op":"pin","src":0,"dst":2,"a":[[4]],"b":[4]}
+{"op":"ask","src":2}
+{"op":"has","src":2,"point":[7]}
+{"op":"probe","src":0,"a":[],"b":[],"keep":[]}

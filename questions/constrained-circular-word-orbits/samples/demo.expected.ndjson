@@ -1,0 +1,13 @@
+{"ok":true}
+{"ok":true}
+{"ok":true}
+{"ok":true}
+{"length":4,"words":0,"necklaces":0,"bracelets":0,"periods":[{"period":1,"words":0,"necklaces":0,"bracelets":0},{"period":2,"words":0,"necklaces":0,"bracelets":0},{"period":4,"words":0,"necklaces":0,"bracelets":0}],"fixed":{"rotations":[0,0,0,0,0,0,0,0],"mirrors":[0,0,0,0,0,0,0,0]}}
+{"ok":true}
+{"ok":true}
+{"length":4,"words":0,"necklaces":8,"bracelets":5,"periods":[{"period":1,"words":2,"necklaces":2,"bracelets":1},{"period":2,"words":2,"necklaces":1,"bracelets":1},{"period":4,"words":8,"necklaces":5,"bracelets":3}],"fixed":{"rotations":[0,2,4,2,0,2,2,2],"mirrors":[0,4,0,4,0,4,4,0]}}
+{"ok":true}
+{"ok":true}
+{"length":4,"words":0,"necklaces":8,"bracelets":5,"periods":[{"period":1,"words":2,"necklaces":2,"bracelets":1},{"period":2,"words":2,"necklaces":1,"bracelets":1},{"period":4,"words":8,"necklaces":5,"bracelets":3}],"fixed":{"rotations":[0,2,4,2,0,2,2,2],"mirrors":[0,4,0,4,0,4,4,0]}}
+{"ok":true}
+{"length":4,"words":0,"necklaces":0,"bracelets":0,"periods":[{"period":1,"words":0,"necklaces":0,"bracelets":0},{"period":2,"words":0,"necklaces":0,"bracelets":0},{"period":4,"words":0,"necklaces":0,"bracelets":0}],"fixed":{"rotations":[0,0,0,0,0,0,0,0],"mirrors":[0,0,0,0,0,0,0,0]}}

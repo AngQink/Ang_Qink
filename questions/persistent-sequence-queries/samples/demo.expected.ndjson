@@ -1,0 +1,10 @@
+{"v":1,"n":3}
+{"v":2,"n":3}
+{"v":3,"n":3}
+{"n":3,"sum":14,"square":78,"moment":19,"forward":594776982,"backward":282015990}
+{"n":3,"sum":36,"square":614,"moment":17,"forward":573074539,"backward":961566303}
+{"v":4,"n":6}
+{"v":5,"n":5}
+{"n":5,"sum":59,"square":1059,"moment":61,"forward":234719947,"backward":802326460}
+{"ok":true}
+{"value":21}

@@ -1,0 +1,14 @@
+{"op":"init","vertices":2,"balance":[3,-3],"edges":[{"id":22,"u":0,"v":1,"lo":0,"hi":4,"cost":2},{"id":3,"u":0,"v":1,"lo":0,"hi":2,"cost":2}]}
+{"op":"save","slot":31}
+{"op":"solve","pins":[],"inspect":[22,3,22]}
+{"op":"patch","edges":[[22,0,4,-1]],"balance":[[0,1],[1,-1]]}
+{"op":"save","slot":0}
+{"op":"solve","pins":[],"inspect":[22,3]}
+{"op":"load","slot":31}
+{"op":"solve","pins":[],"inspect":[22,3]}
+{"op":"patch","edges":[[3,0,0,2]],"balance":[]}
+{"op":"solve","pins":[],"inspect":[3]}
+{"op":"load","slot":31}
+{"op":"solve","pins":[],"inspect":[3]}
+{"op":"load","slot":0}
+{"op":"solve","pins":[],"inspect":[22]}

@@ -1,0 +1,9 @@
+{"ok":true}
+{"ok":true}
+{"ok":true}
+{"length":1,"words":0,"necklaces":0,"bracelets":0,"periods":[{"period":1,"words":0,"necklaces":0,"bracelets":0}],"fixed":{"rotations":[0,0,0],"mirrors":[0,0,0]}}
+{"ok":true}
+{"ok":true}
+{"ok":true}
+{"ok":true}
+{"possible":true,"length":13,"words":1,"necklaces":1,"periods":[{"period":13,"words":1,"necklaces":1}],"fixed_rotations":[0],"prefix_counts":[0,2],"witness":{"sha256":"bef83d9fc14497459599a748f8f052be171c3665e5a4f8b3734b593c9ee1b7b4","at":[0,0,1]}}

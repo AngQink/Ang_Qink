@@ -1,0 +1,10 @@
+{"k": "日本語テキスト", "v": "値は日本語です。", "t": 7}
+{"k": "", "v": "empty key sorts first", "t": 1}
+{"k": "🎉party", "v": null, "t": 5}
+{"k": "漢字/键一", "v": "值：中文内容 🎉🎊", "t": 2}
+{"k": "café", "v": "value keeps NFD: café", "t": 3}
+{"k": "école", "v": "input key is NFD, file key is NFC", "t": 6}
+{"k": "ä", "v": "umlaut ä", "t": 4}
+{"k": "𐍈-gothic", "v": "astral: 𐍈🎊", "t": 8}
+{"k": "z", "v": "", "t": 9}
+{"k": "𝒳-math", "v": "mathematical script capital X", "t": 10}

@@ -1,0 +1,12 @@
+{"op":"ink_init","nonterminals":3,"mod":3,"rules":[{"id":0,"lhs":1,"rhs":[2],"cost":1,"enabled":true},{"id":2,"lhs":1,"rhs":["b"],"cost":1,"enabled":true},{"id":3,"lhs":2,"rhs":["b"],"cost":2,"enabled":true},{"id":4,"lhs":0,"rhs":[],"cost":1,"enabled":true},{"id":5,"lhs":2,"rhs":[],"cost":0,"enabled":true}]}
+{"op":"euler_init","vertices":1,"mod_factors":[[3,2]],"edges":[[4]]}
+{"op":"mirror_init","colors":1,"inventory_mod":1,"mod":6,"mirror":[0],"weights":[0],"edges":[[true]]}
+{"op":"mirror_orbit","factors":[[5,1]],"residue":0,"rotations":[2,9,17],"mirrors":[1]}
+{"op":"ink_parse","start":1,"word":"aa","at":[0,3,3]}
+{"op":"ink_save","slot":2}
+{"op":"euler_cycle","vertices":[0,0,0],"delta":0}
+{"op":"euler_count","gcd_factors":[[2,2]],"rotations":[1],"prefixes":[],"at":[3,5,1]}
+{"op":"ink_weight","id":5,"cost":2}
+{"op":"mirror_edge","u":0,"v":0,"value":false}
+{"op":"euler_save","slot":2}
+{"op":"ink_weight","id":4,"cost":0}

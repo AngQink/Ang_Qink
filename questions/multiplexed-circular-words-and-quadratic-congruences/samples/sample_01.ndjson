@@ -1,0 +1,12 @@
+{"op":"dyadic_init","variables":3,"bits":5,"q":[[1,0,2],[0,0,28],[0,0,3]],"linear":[18,28,1],"constant":1}
+{"op":"euler_init","vertices":3,"mod_factors":[[2,2]],"edges":[[3,0,1],[0,0,1],[1,1,0]]}
+{"op":"dyadic_quad","i":1,"j":1,"value":-30}
+{"op":"euler_cycle","vertices":[2,1],"delta":2}
+{"op":"euler_count","gcd_factors":[],"rotations":[1,9,15],"prefixes":[[],[1,2],[0,2]],"at":[3]}
+{"op":"dyadic_save","slot":0}
+{"op":"dyadic_save","slot":0}
+{"op":"ink_init","nonterminals":2,"mod":6,"rules":[{"id":0,"lhs":0,"rhs":[],"cost":0,"enabled":true},{"id":2,"lhs":1,"rhs":[1],"cost":2,"enabled":true},{"id":4,"lhs":1,"rhs":[],"cost":0,"enabled":true},{"id":7,"lhs":0,"rhs":[0],"cost":2,"enabled":true}]}
+{"op":"ink_enable","id":4,"value":true}
+{"op":"dyadic_solve","target":7,"locks":[[2,0],[2,0],[4,0]],"witness":true}
+{"op":"ink_save","slot":0}
+{"op":"ink_save","slot":1}

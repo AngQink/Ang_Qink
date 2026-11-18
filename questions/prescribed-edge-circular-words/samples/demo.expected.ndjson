@@ -1,0 +1,10 @@
+{"ok":true}
+{"ok":true}
+{"ok":true}
+{"possible":true,"length":5,"words":5,"necklaces":1,"periods":[{"period":5,"words":5,"necklaces":1}],"fixed_rotations":[5,0,0,5,0,5],"prefix_counts":[5,3,2,1,0,0,0,0,1,0],"witness":{"sha256":"d49c22652976aa97c4cf80f7a3937e2eedbf83ab90ade25af2af1a4f7a61cc78","at":[0,0,0,1,1,null,null]}}
+{"ok":true}
+{"possible":true,"length":4,"words":4,"necklaces":1,"periods":[{"period":4,"words":4,"necklaces":1}],"fixed_rotations":[4,0,0,4,0,0],"prefix_counts":[4,2,2,0,1,1,1,0,1,1],"witness":{"sha256":"06e705d477fb7fc44d5a4dbd7a0400509d3090ef9f423097d27b37de96f33815","at":[0,0,1,1,null,null]}}
+{"ok":true}
+{"possible":true,"length":6,"words":6,"necklaces":1,"periods":[{"period":6,"words":6,"necklaces":1}],"fixed_rotations":[6,0,0,6,0,0],"prefix_counts":[6,2,4,0,0,1,0,1,0,0],"witness":{"sha256":"125a77ba7c536df9e6ed7bdc1e33dee8d7aa775ddb6be88ca6dccf5298bb3872","at":[0,0,1,1,1,1,null,null]}}
+{"ok":true}
+{"possible":true,"length":4,"words":4,"necklaces":1,"periods":[{"period":4,"words":4,"necklaces":1}],"fixed_rotations":[4,0,0,4,0,0],"prefix_counts":[4,2,2,0,0,0,0,0,0,0],"witness":{"sha256":"06e705d477fb7fc44d5a4dbd7a0400509d3090ef9f423097d27b37de96f33815","at":[0,0,1,1,null,null]}}

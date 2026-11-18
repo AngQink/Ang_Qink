@@ -1,0 +1,2 @@
+{"op":"init","vertices":3,"edges":[{"id":9,"u":0,"v":1,"cost":5,"enabled":true},{"id":2,"u":0,"v":1,"cost":5,"enabled":true},{"id":3,"u":0,"v":2,"cost":2,"enabled":true},{"id":8,"u":1,"v":2,"cost":2,"enabled":true}]}
+{"op":"query","root":0,"pins":[],"at":[0,2,4],"probes":[[2,4],[9,8],[7,7]],"uses":[2,3,99]}

@@ -1,0 +1,17 @@
+{"op":"tide_init","vertices":1,"balance":[0],"edges":[{"id":15,"u":0,"v":0,"lo":1,"hi":2,"cost":0}]}
+{"op":"tide_save","slot":1}
+{"op":"tide_patch","edges":[[15,0,5,-1]],"balance":[]}
+{"op":"tide_solve","pins":[],"inspect":[]}
+{"op":"ink_init","nonterminals":1,"mod":3,"rules":[{"id":0,"lhs":0,"rhs":[0,0],"cost":2,"enabled":true},{"id":1,"lhs":0,"rhs":["a"],"cost":2,"enabled":true},{"id":2,"lhs":0,"rhs":[],"cost":1,"enabled":true}]}
+{"op":"dyadic_init","variables":1,"bits":5,"q":[[3]],"linear":[17],"constant":21}
+{"op":"dyadic_constant","value":35}
+{"op":"euler_init","vertices":2,"mod_factors":[[3,2]],"edges":[[5,2],[2,0]]}
+{"op":"euler_cycle","vertices":[0,0],"delta":0}
+{"op":"dyadic_solve","target":7,"locks":[[3,2]],"witness":true}
+{"op":"mirror_init","colors":1,"inventory_mod":1,"mod":12,"mirror":[0],"weights":[0],"edges":[[true]]}
+{"op":"euler_count","gcd_factors":[],"rotations":[18],"prefixes":[[0],[1,0,1],[],[0,0,1]],"at":[0,8,4]}
+{"op":"mirror_weight","color":0,"value":0}
+{"op":"ink_save","slot":0}
+{"op":"mirror_orbit","factors":[[5,1]],"residue":0,"rotations":[5],"mirrors":[8,3]}
+{"op":"ink_parse","start":0,"word":"aba","at":[9]}
+{"op":"ink_parse","start":0,"word":"a","at":[]}

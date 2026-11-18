@@ -1,0 +1,6 @@
+* text=auto eol=lf
+*.json -text whitespace=cr-at-eol
+*.ndjson -text whitespace=cr-at-eol
+*.txt -text whitespace=cr-at-eol
+*.algr binary
+*.bin binary

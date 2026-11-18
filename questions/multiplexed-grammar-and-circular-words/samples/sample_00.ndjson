@@ -1,0 +1,11 @@
+{"op":"euler_init","vertices":4,"mod_factors":[[2,2]],"edges":[[0,0,1,0],[0,0,0,0],[1,0,0,1],[0,0,1,0]]}
+{"op":"ink_init","nonterminals":3,"mod":3,"rules":[{"id":0,"lhs":0,"rhs":[],"cost":0,"enabled":true},{"id":2,"lhs":2,"rhs":[1,1],"cost":0,"enabled":true},{"id":4,"lhs":0,"rhs":["b"],"cost":0,"enabled":true},{"id":6,"lhs":0,"rhs":["b"],"cost":0,"enabled":true},{"id":9,"lhs":1,"rhs":[1,2],"cost":1,"enabled":true}]}
+{"op":"mirror_init","colors":3,"inventory_mod":1,"mod":3,"mirror":[2,1,0],"weights":[0,0,0],"edges":[[true,true,true],[true,true,true],[true,true,true]]}
+{"op":"ink_weight","id":2,"cost":1}
+{"op":"mirror_edge","u":1,"v":2,"value":true}
+{"op":"ink_enable","id":4,"value":true}
+{"op":"ink_enable","id":9,"value":true}
+{"op":"euler_count","gcd_factors":[],"rotations":[1],"prefixes":[[1,1]],"at":[0]}
+{"op":"euler_cycle","vertices":[2,2],"delta":1}
+{"op":"mirror_orbit","factors":[[2,2]],"residue":0,"rotations":[8,12],"mirrors":[13,5,5]}
+{"op":"euler_save","slot":2}

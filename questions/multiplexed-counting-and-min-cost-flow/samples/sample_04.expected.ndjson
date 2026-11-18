@@ -1,0 +1,17 @@
+{"ok":true}
+{"ok":true}
+{"ok":true}
+{"ok":true}
+{"ok":true}
+{"ok":true}
+{"ok":true}
+{"possible":true,"cost":2,"flow":[[2,2],[18,0]],"ranges":[[0,5]]}
+{"ok":true}
+{"ok":true}
+{"possible":true,"count":8,"witness":null}
+{"ok":true}
+{"possible":false}
+{"possible":false}
+{"ok":true}
+{"ok":true}
+{"possible":true,"length":5,"words":2,"necklaces":1,"periods":[{"period":5,"words":2,"necklaces":1}],"fixed_rotations":[2],"prefix_counts":[2,1,2,2],"witness":{"sha256":"f631d93e82685a23ecf0c208ffa81d89a7c39044a87437885e76175657df134b","at":[]}}

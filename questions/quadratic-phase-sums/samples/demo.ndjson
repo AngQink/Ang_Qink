@@ -1,0 +1,7 @@
+{"op":"init","n":1,"linear":[1],"edges":[],"constant":0}
+{"op":"ask","a":[],"b":[]}
+{"op":"save","slot":0}
+{"op":"phase","u":0,"delta":1}
+{"op":"ask","a":[],"b":[]}
+{"op":"overlap","left":0,"right":0,"a":[],"b":[]}
+{"op":"ask","a":["0"],"b":[1]}

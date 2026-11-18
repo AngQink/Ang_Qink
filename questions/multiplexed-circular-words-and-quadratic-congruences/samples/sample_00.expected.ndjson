@@ -1,0 +1,14 @@
+{"ok":true}
+{"ok":true}
+{"ok":true}
+{"ok":true}
+{"ok":true}
+{"ok":true}
+{"ok":true}
+{"possible":false,"count":0,"witness":null}
+{"possible":true,"length":200000,"words":0,"necklaces":1,"periods":[{"period":8,"words":0,"necklaces":1},{"period":16,"words":0,"necklaces":0},{"period":32,"words":0,"necklaces":0},{"period":40,"words":0,"necklaces":0},{"period":64,"words":0,"necklaces":0},{"period":80,"words":0,"necklaces":0},{"period":160,"words":0,"necklaces":0},{"period":200,"words":0,"necklaces":0},{"period":320,"words":0,"necklaces":0},{"period":400,"words":0,"necklaces":0},{"period":800,"words":0,"necklaces":0},{"period":1000,"words":0,"necklaces":0},{"period":1600,"words":0,"necklaces":0},{"period":2000,"words":0,"necklaces":0},{"period":4000,"words":0,"necklaces":0},{"period":5000,"words":0,"necklaces":0},{"period":8000,"words":0,"necklaces":0},{"period":10000,"words":0,"necklaces":0},{"period":20000,"words":0,"necklaces":0},{"period":25000,"words":0,"necklaces":0},{"period":40000,"words":0,"necklaces":0},{"period":50000,"words":0,"necklaces":0},{"period":100000,"words":0,"necklaces":0},{"period":200000,"words":0,"necklaces":0}],"fixed_rotations":[0,0,0],"prefix_counts":[1,0,1,0],"witness":{"sha256":"5c42040fc90adddfa1034c939f6247c1d4a292b4a38585dbd00006ad214faa13","at":[3,2,3]}}
+{"ok":true}
+{"ok":true}
+{"ok":true}
+{"possible":true,"cost":0,"infinite":false,"ways":1,"witness":{"nodes":2,"sha256":"7346e66655ae6574fc92f89900f75155b765a6e92bc82d790e7fbc134d8021c9","at":[]}}
+{"length":6,"words":0,"necklaces":0,"bracelets":0,"periods":[{"period":1,"words":0,"necklaces":0,"bracelets":0},{"period":2,"words":0,"necklaces":0,"bracelets":0},{"period":3,"words":0,"necklaces":0,"bracelets":0},{"period":6,"words":0,"necklaces":0,"bracelets":0}],"fixed":{"rotations":[0,0,0],"mirrors":[0,0]}}

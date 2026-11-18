@@ -1,0 +1,11 @@
+{"op":"euler_init","vertices":8,"mod_factors":[[3,1]],"edges":[[0,25000,0,0,0,0,0,0],[0,0,25000,0,0,0,0,0],[0,0,0,25000,0,0,0,0],[0,0,0,0,25000,0,0,0],[0,0,0,0,0,25000,0,0],[0,0,0,0,0,0,25000,0],[0,0,0,0,0,0,0,25000],[25000,0,0,0,0,0,0,0]]}
+{"op":"ink_init","nonterminals":1,"mod":2,"rules":[{"id":0,"lhs":0,"rhs":[],"cost":0,"enabled":true},{"id":1,"lhs":0,"rhs":[],"cost":1,"enabled":true},{"id":3,"lhs":0,"rhs":[],"cost":2,"enabled":true},{"id":4,"lhs":0,"rhs":[0,0],"cost":0,"enabled":true}]}
+{"op":"mirror_init","colors":3,"inventory_mod":1,"mod":3,"mirror":[1,0,2],"weights":[0,0,0],"edges":[[true,true,true],[true,true,true],[true,true,true]]}
+{"op":"euler_save","slot":0}
+{"op":"ink_parse","start":0,"word":"a","at":[6,1,4]}
+{"op":"euler_save","slot":1}
+{"op":"euler_count","gcd_factors":[[2,3],[5,5]],"rotations":[134224],"prefixes":[],"at":[110133,160402,171358,58948]}
+{"op":"mirror_save","slot":1}
+{"op":"ink_parse","start":0,"word":"ab","at":[5,1]}
+{"op":"ink_parse","start":0,"word":"aa","at":[]}
+{"op":"ink_parse","start":0,"word":"aa","at":[5,3,5]}

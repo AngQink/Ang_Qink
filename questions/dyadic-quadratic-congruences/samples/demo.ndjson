@@ -1,0 +1,11 @@
+{"op":"init","variables":2,"bits":4,"q":[[1,1],[0,3]],"linear":[2,0],"constant":1}
+{"op":"save","slot":31}
+{"op":"solve","target":0,"locks":[[0,0],[0,0]],"witness":true}
+{"op":"quad","i":0,"j":1,"value":0}
+{"op":"solve","target":0,"locks":[[0,0],[0,0]],"witness":true}
+{"op":"load","slot":31}
+{"op":"solve","target":0,"locks":[[0,0],[0,0]],"witness":true}
+{"op":"linear","i":1,"value":7}
+{"op":"solve","target":0,"locks":[[0,0],[0,0]],"witness":true}
+{"op":"load","slot":31}
+{"op":"solve","target":0,"locks":[[0,0],[0,0]],"witness":true}
