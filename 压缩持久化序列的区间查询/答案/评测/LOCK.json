@@ -1,0 +1,13 @@
+{
+  "entrypoint": "loom.py",
+  "runner": "single",
+  "official_cases": 57,
+  "files": {
+    "judge/judge.py": "f6457dc53738ec0ca5e510a2eda60e005fa9b5a409f89e6d0d43bec6f2af2c60",
+    "judge/runner.py": "4970b02804a322eb6d5a453c0fb4ae8c1e56fa7a170dbaca4d6c8aa6900f6086",
+    "judge/cases.py": "b1ecdb334f057dc72b883d246d8c1067b05111376754de972e4f8f0bee1df015",
+    "judge/generate.py": "049111426a01436221ea1f362b51490639be200c671cc0f68ce17f316e338b37",
+    "judge/models.py": "9356ddfb6d68d03349859123b26eca9603cf5530dc65a914284fde6069acc7ce"
+  },
+  "source_lock_sha256": "7d34074b4d42e1ca78c668b3a79e166b07c1722cc53f173c385fb1001155c0e5"
+}

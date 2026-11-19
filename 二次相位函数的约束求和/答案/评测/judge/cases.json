@@ -1,0 +1,380 @@
+[
+  {
+    "name": "sample_cancellation_and_phase",
+    "file": "sample_cancellation_and_phase.json.gz",
+    "commands": 7,
+    "oracle": "truth table"
+  },
+  {
+    "name": "zero_variables_and_global_phase",
+    "file": "zero_variables_and_global_phase.json.gz",
+    "commands": 8,
+    "oracle": "truth table"
+  },
+  {
+    "name": "feasible_zero_is_not_impossible",
+    "file": "feasible_zero_is_not_impossible.json.gz",
+    "commands": 5,
+    "oracle": "truth table"
+  },
+  {
+    "name": "pair_interference_and_odd_pivots",
+    "file": "pair_interference_and_odd_pivots.json.gz",
+    "commands": 7,
+    "oracle": "truth table"
+  },
+  {
+    "name": "xor_odd_linear_and_diagonal_carry",
+    "file": "xor_odd_linear_and_diagonal_carry.json.gz",
+    "commands": 6,
+    "oracle": "truth table"
+  },
+  {
+    "name": "flip_preserves_sum_changes_restriction",
+    "file": "flip_preserves_sum_changes_restriction.json.gz",
+    "commands": 6,
+    "oracle": "truth table"
+  },
+  {
+    "name": "overlap_direction_and_current_independence",
+    "file": "overlap_direction_and_current_independence.json.gz",
+    "commands": 9,
+    "oracle": "truth table"
+  },
+  {
+    "name": "lexicographic_not_integer_order",
+    "file": "lexicographic_not_integer_order.json.gz",
+    "commands": 5,
+    "oracle": "truth table"
+  },
+  {
+    "name": "snapshot_aliases_and_overwrite",
+    "file": "snapshot_aliases_and_overwrite.json.gz",
+    "commands": 11,
+    "oracle": "truth table"
+  },
+  {
+    "name": "signed64_delta_endpoints",
+    "file": "signed64_delta_endpoints.json.gz",
+    "commands": 8,
+    "oracle": "truth table"
+  },
+  {
+    "name": "all_snapshot_slots",
+    "file": "all_snapshot_slots.json.gz",
+    "commands": 257,
+    "oracle": "truth table"
+  },
+  {
+    "name": "swaps_and_redundant_128_rows",
+    "file": "swaps_and_redundant_128_rows.json.gz",
+    "commands": 51,
+    "oracle": "truth table"
+  },
+  {
+    "name": "truth_table_n0_s137",
+    "file": "truth_table_n0_s137.json.gz",
+    "commands": 241,
+    "oracle": "truth table"
+  },
+  {
+    "name": "truth_table_n0_s1017",
+    "file": "truth_table_n0_s1017.json.gz",
+    "commands": 241,
+    "oracle": "truth table"
+  },
+  {
+    "name": "truth_table_n1_s137",
+    "file": "truth_table_n1_s137.json.gz",
+    "commands": 241,
+    "oracle": "truth table"
+  },
+  {
+    "name": "truth_table_n1_s1017",
+    "file": "truth_table_n1_s1017.json.gz",
+    "commands": 239,
+    "oracle": "truth table"
+  },
+  {
+    "name": "truth_table_n2_s137",
+    "file": "truth_table_n2_s137.json.gz",
+    "commands": 241,
+    "oracle": "truth table"
+  },
+  {
+    "name": "truth_table_n2_s1017",
+    "file": "truth_table_n2_s1017.json.gz",
+    "commands": 236,
+    "oracle": "truth table"
+  },
+  {
+    "name": "truth_table_n3_s137",
+    "file": "truth_table_n3_s137.json.gz",
+    "commands": 238,
+    "oracle": "truth table"
+  },
+  {
+    "name": "truth_table_n3_s1017",
+    "file": "truth_table_n3_s1017.json.gz",
+    "commands": 241,
+    "oracle": "truth table"
+  },
+  {
+    "name": "truth_table_n4_s137",
+    "file": "truth_table_n4_s137.json.gz",
+    "commands": 238,
+    "oracle": "truth table"
+  },
+  {
+    "name": "truth_table_n4_s1017",
+    "file": "truth_table_n4_s1017.json.gz",
+    "commands": 241,
+    "oracle": "truth table"
+  },
+  {
+    "name": "truth_table_n5_s137",
+    "file": "truth_table_n5_s137.json.gz",
+    "commands": 239,
+    "oracle": "truth table"
+  },
+  {
+    "name": "truth_table_n5_s1017",
+    "file": "truth_table_n5_s1017.json.gz",
+    "commands": 238,
+    "oracle": "truth table"
+  },
+  {
+    "name": "truth_table_n6_s137",
+    "file": "truth_table_n6_s137.json.gz",
+    "commands": 241,
+    "oracle": "truth table"
+  },
+  {
+    "name": "truth_table_n6_s1017",
+    "file": "truth_table_n6_s1017.json.gz",
+    "commands": 238,
+    "oracle": "truth table"
+  },
+  {
+    "name": "truth_table_n7_s137",
+    "file": "truth_table_n7_s137.json.gz",
+    "commands": 241,
+    "oracle": "truth table"
+  },
+  {
+    "name": "truth_table_n7_s1017",
+    "file": "truth_table_n7_s1017.json.gz",
+    "commands": 241,
+    "oracle": "truth table"
+  },
+  {
+    "name": "truth_table_n8_s137",
+    "file": "truth_table_n8_s137.json.gz",
+    "commands": 240,
+    "oracle": "truth table"
+  },
+  {
+    "name": "truth_table_n8_s1017",
+    "file": "truth_table_n8_s1017.json.gz",
+    "commands": 241,
+    "oracle": "truth table"
+  },
+  {
+    "name": "truth_table_n9_s137",
+    "file": "truth_table_n9_s137.json.gz",
+    "commands": 241,
+    "oracle": "truth table"
+  },
+  {
+    "name": "truth_table_n9_s1017",
+    "file": "truth_table_n9_s1017.json.gz",
+    "commands": 240,
+    "oracle": "truth table"
+  },
+  {
+    "name": "truth_table_n10_s137",
+    "file": "truth_table_n10_s137.json.gz",
+    "commands": 241,
+    "oracle": "truth table"
+  },
+  {
+    "name": "truth_table_n10_s1017",
+    "file": "truth_table_n10_s1017.json.gz",
+    "commands": 239,
+    "oracle": "truth table"
+  },
+  {
+    "name": "truth_table_n11_s137",
+    "file": "truth_table_n11_s137.json.gz",
+    "commands": 241,
+    "oracle": "truth table"
+  },
+  {
+    "name": "truth_table_n11_s1017",
+    "file": "truth_table_n11_s1017.json.gz",
+    "commands": 237,
+    "oracle": "truth table"
+  },
+  {
+    "name": "symbolic_blocks_affine_0",
+    "file": "symbolic_blocks_affine_0.json.gz",
+    "commands": 1584,
+    "oracle": "truth-table blocks under symbolic affine bijection"
+  },
+  {
+    "name": "symbolic_blocks_affine_1",
+    "file": "symbolic_blocks_affine_1.json.gz",
+    "commands": 1592,
+    "oracle": "truth-table blocks under symbolic affine bijection"
+  },
+  {
+    "name": "symbolic_blocks_affine_2",
+    "file": "symbolic_blocks_affine_2.json.gz",
+    "commands": 1608,
+    "oracle": "truth-table blocks under symbolic affine bijection"
+  },
+  {
+    "name": "symbolic_blocks_affine_3",
+    "file": "symbolic_blocks_affine_3.json.gz",
+    "commands": 1640,
+    "oracle": "truth-table blocks under symbolic affine bijection"
+  },
+  {
+    "name": "symbolic_blocks_affine_4",
+    "file": "symbolic_blocks_affine_4.json.gz",
+    "commands": 1704,
+    "oracle": "truth-table blocks under symbolic affine bijection"
+  },
+  {
+    "name": "symbolic_blocks_affine_5",
+    "file": "symbolic_blocks_affine_5.json.gz",
+    "commands": 1832,
+    "oracle": "truth-table blocks under symbolic affine bijection"
+  },
+  {
+    "name": "symbolic_blocks_affine_6",
+    "file": "symbolic_blocks_affine_6.json.gz",
+    "commands": 1584,
+    "oracle": "truth-table blocks under symbolic affine bijection"
+  },
+  {
+    "name": "symbolic_blocks_affine_7",
+    "file": "symbolic_blocks_affine_7.json.gz",
+    "commands": 1592,
+    "oracle": "truth-table blocks under symbolic affine bijection"
+  },
+  {
+    "name": "symbolic_blocks_affine_8",
+    "file": "symbolic_blocks_affine_8.json.gz",
+    "commands": 1608,
+    "oracle": "truth-table blocks under symbolic affine bijection"
+  },
+  {
+    "name": "symbolic_blocks_affine_9",
+    "file": "symbolic_blocks_affine_9.json.gz",
+    "commands": 1640,
+    "oracle": "truth-table blocks under symbolic affine bijection"
+  },
+  {
+    "name": "symbolic_blocks_affine_10",
+    "file": "symbolic_blocks_affine_10.json.gz",
+    "commands": 1704,
+    "oracle": "truth-table blocks under symbolic affine bijection"
+  },
+  {
+    "name": "symbolic_blocks_affine_11",
+    "file": "symbolic_blocks_affine_11.json.gz",
+    "commands": 1832,
+    "oracle": "truth-table blocks under symbolic affine bijection"
+  },
+  {
+    "name": "four_bit_quadratic_chunk_0",
+    "file": "four_bit_quadratic_chunk_0.json.gz",
+    "commands": 1239,
+    "oracle": "truth table"
+  },
+  {
+    "name": "four_bit_quadratic_chunk_1",
+    "file": "four_bit_quadratic_chunk_1.json.gz",
+    "commands": 1243,
+    "oracle": "truth table"
+  },
+  {
+    "name": "four_bit_quadratic_chunk_2",
+    "file": "four_bit_quadratic_chunk_2.json.gz",
+    "commands": 1241,
+    "oracle": "truth table"
+  },
+  {
+    "name": "four_bit_quadratic_chunk_3",
+    "file": "four_bit_quadratic_chunk_3.json.gz",
+    "commands": 1246,
+    "oracle": "truth table"
+  },
+  {
+    "name": "four_bit_quadratic_chunk_4",
+    "file": "four_bit_quadratic_chunk_4.json.gz",
+    "commands": 1242,
+    "oracle": "truth table"
+  },
+  {
+    "name": "four_bit_quadratic_chunk_5",
+    "file": "four_bit_quadratic_chunk_5.json.gz",
+    "commands": 1243,
+    "oracle": "truth table"
+  },
+  {
+    "name": "four_bit_quadratic_chunk_6",
+    "file": "four_bit_quadratic_chunk_6.json.gz",
+    "commands": 1246,
+    "oracle": "truth table"
+  },
+  {
+    "name": "four_bit_quadratic_chunk_7",
+    "file": "four_bit_quadratic_chunk_7.json.gz",
+    "commands": 1241,
+    "oracle": "truth table"
+  },
+  {
+    "name": "pressure_dense_phase_0",
+    "file": "pressure_dense_phase_0.json.gz",
+    "commands": 20000,
+    "oracle": "truth-table blocks under symbolic affine bijection"
+  },
+  {
+    "name": "pressure_dense_phase_1",
+    "file": "pressure_dense_phase_1.json.gz",
+    "commands": 20000,
+    "oracle": "truth-table blocks under symbolic affine bijection"
+  },
+  {
+    "name": "pressure_dense_phase_2",
+    "file": "pressure_dense_phase_2.json.gz",
+    "commands": 20000,
+    "oracle": "truth-table blocks under symbolic affine bijection"
+  },
+  {
+    "name": "pressure_dense_phase_3",
+    "file": "pressure_dense_phase_3.json.gz",
+    "commands": 20000,
+    "oracle": "truth-table blocks under symbolic affine bijection"
+  },
+  {
+    "name": "pressure_dense_phase_4",
+    "file": "pressure_dense_phase_4.json.gz",
+    "commands": 20000,
+    "oracle": "truth-table blocks under symbolic affine bijection"
+  },
+  {
+    "name": "pressure_dense_phase_5",
+    "file": "pressure_dense_phase_5.json.gz",
+    "commands": 20000,
+    "oracle": "truth-table blocks under symbolic affine bijection"
+  },
+  {
+    "name": "pressure_dense_phase_6",
+    "file": "pressure_dense_phase_6.json.gz",
+    "commands": 20000,
+    "oracle": "truth-table blocks under symbolic affine bijection"
+  }
+]

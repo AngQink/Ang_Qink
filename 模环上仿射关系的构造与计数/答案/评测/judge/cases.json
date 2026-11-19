@@ -1,0 +1,668 @@
+[
+  {
+    "name": "sample_nonunit_image",
+    "file": "sample_nonunit_image.json.gz",
+    "commands": 9,
+    "oracle": "explicit sets"
+  },
+  {
+    "name": "contradictions_and_empty_meet",
+    "file": "contradictions_and_empty_meet.json.gz",
+    "commands": 8,
+    "oracle": "explicit sets"
+  },
+  {
+    "name": "zero_dimensions_and_constant_images",
+    "file": "zero_dimensions_and_constant_images.json.gz",
+    "commands": 9,
+    "oracle": "explicit sets"
+  },
+  {
+    "name": "alias_copy_value_semantics",
+    "file": "alias_copy_value_semantics.json.gz",
+    "commands": 9,
+    "oracle": "explicit sets"
+  },
+  {
+    "name": "same_handle_two_independent_copies",
+    "file": "same_handle_two_independent_copies.json.gz",
+    "commands": 6,
+    "oracle": "explicit sets"
+  },
+  {
+    "name": "duplicate_and_permuted_views",
+    "file": "duplicate_and_permuted_views.json.gz",
+    "commands": 5,
+    "oracle": "explicit sets"
+  },
+  {
+    "name": "hidden_witnesses_are_not_results",
+    "file": "hidden_witnesses_are_not_results.json.gz",
+    "commands": 38,
+    "oracle": "explicit sets"
+  },
+  {
+    "name": "crt_lexicographic_traps",
+    "file": "crt_lexicographic_traps.json.gz",
+    "commands": 6,
+    "oracle": "explicit sets"
+  },
+  {
+    "name": "annihilator_closure_and_nonunit_carry",
+    "file": "annihilator_closure_and_nonunit_carry.json.gz",
+    "commands": 20,
+    "oracle": "explicit sets"
+  },
+  {
+    "name": "coupled_nonunit_pivots",
+    "file": "coupled_nonunit_pivots.json.gz",
+    "commands": 15,
+    "oracle": "explicit sets"
+  },
+  {
+    "name": "signed128_coefficients_and_modulus_boundary",
+    "file": "signed128_coefficients_and_modulus_boundary.json.gz",
+    "commands": 5,
+    "oracle": "cyclic congruence formulas"
+  },
+  {
+    "name": "all_256_slots_and_aliases",
+    "file": "all_256_slots_and_aliases.json.gz",
+    "commands": 262,
+    "oracle": "explicit sets"
+  },
+  {
+    "name": "duplicate_ties_and_fanin",
+    "file": "duplicate_ties_and_fanin.json.gz",
+    "commands": 5,
+    "oracle": "explicit sets"
+  },
+  {
+    "name": "queries_do_not_mutate",
+    "file": "queries_do_not_mutate.json.gz",
+    "commands": 7,
+    "oracle": "explicit sets"
+  },
+  {
+    "name": "intersections_after_translated_images",
+    "file": "intersections_after_translated_images.json.gz",
+    "commands": 8,
+    "oracle": "explicit sets"
+  },
+  {
+    "name": "all_mod4_two_by_two_systems_part0",
+    "file": "all_mod4_two_by_two_systems_part0.json.gz",
+    "commands": 4097,
+    "oracle": "explicit sets"
+  },
+  {
+    "name": "all_mod4_two_by_two_systems_part1",
+    "file": "all_mod4_two_by_two_systems_part1.json.gz",
+    "commands": 4097,
+    "oracle": "explicit sets"
+  },
+  {
+    "name": "enumerated_random_m2_s41",
+    "file": "enumerated_random_m2_s41.json.gz",
+    "commands": 182,
+    "oracle": "explicit sets"
+  },
+  {
+    "name": "enumerated_random_m2_s137",
+    "file": "enumerated_random_m2_s137.json.gz",
+    "commands": 182,
+    "oracle": "explicit sets"
+  },
+  {
+    "name": "enumerated_random_m2_s1017",
+    "file": "enumerated_random_m2_s1017.json.gz",
+    "commands": 182,
+    "oracle": "explicit sets"
+  },
+  {
+    "name": "enumerated_random_m2_s65537",
+    "file": "enumerated_random_m2_s65537.json.gz",
+    "commands": 182,
+    "oracle": "explicit sets"
+  },
+  {
+    "name": "enumerated_random_m3_s41",
+    "file": "enumerated_random_m3_s41.json.gz",
+    "commands": 182,
+    "oracle": "explicit sets"
+  },
+  {
+    "name": "enumerated_random_m3_s137",
+    "file": "enumerated_random_m3_s137.json.gz",
+    "commands": 182,
+    "oracle": "explicit sets"
+  },
+  {
+    "name": "enumerated_random_m3_s1017",
+    "file": "enumerated_random_m3_s1017.json.gz",
+    "commands": 182,
+    "oracle": "explicit sets"
+  },
+  {
+    "name": "enumerated_random_m3_s65537",
+    "file": "enumerated_random_m3_s65537.json.gz",
+    "commands": 182,
+    "oracle": "explicit sets"
+  },
+  {
+    "name": "enumerated_random_m4_s41",
+    "file": "enumerated_random_m4_s41.json.gz",
+    "commands": 182,
+    "oracle": "explicit sets"
+  },
+  {
+    "name": "enumerated_random_m4_s137",
+    "file": "enumerated_random_m4_s137.json.gz",
+    "commands": 182,
+    "oracle": "explicit sets"
+  },
+  {
+    "name": "enumerated_random_m4_s1017",
+    "file": "enumerated_random_m4_s1017.json.gz",
+    "commands": 182,
+    "oracle": "explicit sets"
+  },
+  {
+    "name": "enumerated_random_m4_s65537",
+    "file": "enumerated_random_m4_s65537.json.gz",
+    "commands": 182,
+    "oracle": "explicit sets"
+  },
+  {
+    "name": "enumerated_random_m5_s41",
+    "file": "enumerated_random_m5_s41.json.gz",
+    "commands": 182,
+    "oracle": "explicit sets"
+  },
+  {
+    "name": "enumerated_random_m5_s137",
+    "file": "enumerated_random_m5_s137.json.gz",
+    "commands": 182,
+    "oracle": "explicit sets"
+  },
+  {
+    "name": "enumerated_random_m5_s1017",
+    "file": "enumerated_random_m5_s1017.json.gz",
+    "commands": 182,
+    "oracle": "explicit sets"
+  },
+  {
+    "name": "enumerated_random_m5_s65537",
+    "file": "enumerated_random_m5_s65537.json.gz",
+    "commands": 182,
+    "oracle": "explicit sets"
+  },
+  {
+    "name": "enumerated_random_m6_s41",
+    "file": "enumerated_random_m6_s41.json.gz",
+    "commands": 182,
+    "oracle": "explicit sets"
+  },
+  {
+    "name": "enumerated_random_m6_s137",
+    "file": "enumerated_random_m6_s137.json.gz",
+    "commands": 182,
+    "oracle": "explicit sets"
+  },
+  {
+    "name": "enumerated_random_m6_s1017",
+    "file": "enumerated_random_m6_s1017.json.gz",
+    "commands": 182,
+    "oracle": "explicit sets"
+  },
+  {
+    "name": "enumerated_random_m6_s65537",
+    "file": "enumerated_random_m6_s65537.json.gz",
+    "commands": 182,
+    "oracle": "explicit sets"
+  },
+  {
+    "name": "enumerated_random_m8_s41",
+    "file": "enumerated_random_m8_s41.json.gz",
+    "commands": 182,
+    "oracle": "explicit sets"
+  },
+  {
+    "name": "enumerated_random_m8_s137",
+    "file": "enumerated_random_m8_s137.json.gz",
+    "commands": 182,
+    "oracle": "explicit sets"
+  },
+  {
+    "name": "enumerated_random_m8_s1017",
+    "file": "enumerated_random_m8_s1017.json.gz",
+    "commands": 182,
+    "oracle": "explicit sets"
+  },
+  {
+    "name": "enumerated_random_m8_s65537",
+    "file": "enumerated_random_m8_s65537.json.gz",
+    "commands": 182,
+    "oracle": "explicit sets"
+  },
+  {
+    "name": "enumerated_random_m9_s41",
+    "file": "enumerated_random_m9_s41.json.gz",
+    "commands": 182,
+    "oracle": "explicit sets"
+  },
+  {
+    "name": "enumerated_random_m9_s137",
+    "file": "enumerated_random_m9_s137.json.gz",
+    "commands": 182,
+    "oracle": "explicit sets"
+  },
+  {
+    "name": "enumerated_random_m9_s1017",
+    "file": "enumerated_random_m9_s1017.json.gz",
+    "commands": 182,
+    "oracle": "explicit sets"
+  },
+  {
+    "name": "enumerated_random_m9_s65537",
+    "file": "enumerated_random_m9_s65537.json.gz",
+    "commands": 182,
+    "oracle": "explicit sets"
+  },
+  {
+    "name": "enumerated_random_m10_s41",
+    "file": "enumerated_random_m10_s41.json.gz",
+    "commands": 182,
+    "oracle": "explicit sets"
+  },
+  {
+    "name": "enumerated_random_m10_s137",
+    "file": "enumerated_random_m10_s137.json.gz",
+    "commands": 182,
+    "oracle": "explicit sets"
+  },
+  {
+    "name": "enumerated_random_m10_s1017",
+    "file": "enumerated_random_m10_s1017.json.gz",
+    "commands": 182,
+    "oracle": "explicit sets"
+  },
+  {
+    "name": "enumerated_random_m10_s65537",
+    "file": "enumerated_random_m10_s65537.json.gz",
+    "commands": 182,
+    "oracle": "explicit sets"
+  },
+  {
+    "name": "enumerated_random_m12_s41",
+    "file": "enumerated_random_m12_s41.json.gz",
+    "commands": 182,
+    "oracle": "explicit sets"
+  },
+  {
+    "name": "enumerated_random_m12_s137",
+    "file": "enumerated_random_m12_s137.json.gz",
+    "commands": 182,
+    "oracle": "explicit sets"
+  },
+  {
+    "name": "enumerated_random_m12_s1017",
+    "file": "enumerated_random_m12_s1017.json.gz",
+    "commands": 182,
+    "oracle": "explicit sets"
+  },
+  {
+    "name": "enumerated_random_m12_s65537",
+    "file": "enumerated_random_m12_s65537.json.gz",
+    "commands": 182,
+    "oracle": "explicit sets"
+  },
+  {
+    "name": "enumerated_random_m16_s41",
+    "file": "enumerated_random_m16_s41.json.gz",
+    "commands": 182,
+    "oracle": "explicit sets"
+  },
+  {
+    "name": "enumerated_random_m16_s137",
+    "file": "enumerated_random_m16_s137.json.gz",
+    "commands": 182,
+    "oracle": "explicit sets"
+  },
+  {
+    "name": "enumerated_random_m16_s1017",
+    "file": "enumerated_random_m16_s1017.json.gz",
+    "commands": 182,
+    "oracle": "explicit sets"
+  },
+  {
+    "name": "enumerated_random_m16_s65537",
+    "file": "enumerated_random_m16_s65537.json.gz",
+    "commands": 182,
+    "oracle": "explicit sets"
+  },
+  {
+    "name": "gaussian_crt_dense_0",
+    "file": "gaussian_crt_dense_0.json.gz",
+    "commands": 428,
+    "oracle": "independent Gaussian/CRT model"
+  },
+  {
+    "name": "gaussian_crt_dense_1",
+    "file": "gaussian_crt_dense_1.json.gz",
+    "commands": 427,
+    "oracle": "independent Gaussian/CRT model"
+  },
+  {
+    "name": "gaussian_crt_dense_2",
+    "file": "gaussian_crt_dense_2.json.gz",
+    "commands": 436,
+    "oracle": "independent Gaussian/CRT model"
+  },
+  {
+    "name": "gaussian_crt_dense_3",
+    "file": "gaussian_crt_dense_3.json.gz",
+    "commands": 433,
+    "oracle": "independent Gaussian/CRT model"
+  },
+  {
+    "name": "gaussian_crt_dense_4",
+    "file": "gaussian_crt_dense_4.json.gz",
+    "commands": 428,
+    "oracle": "independent Gaussian/CRT model"
+  },
+  {
+    "name": "gaussian_crt_dense_5",
+    "file": "gaussian_crt_dense_5.json.gz",
+    "commands": 433,
+    "oracle": "independent Gaussian/CRT model"
+  },
+  {
+    "name": "gaussian_crt_dense_6",
+    "file": "gaussian_crt_dense_6.json.gz",
+    "commands": 433,
+    "oracle": "independent Gaussian/CRT model"
+  },
+  {
+    "name": "gaussian_crt_dense_7",
+    "file": "gaussian_crt_dense_7.json.gz",
+    "commands": 433,
+    "oracle": "independent Gaussian/CRT model"
+  },
+  {
+    "name": "gaussian_crt_dense_8",
+    "file": "gaussian_crt_dense_8.json.gz",
+    "commands": 428,
+    "oracle": "independent Gaussian/CRT model"
+  },
+  {
+    "name": "gaussian_crt_dense_9",
+    "file": "gaussian_crt_dense_9.json.gz",
+    "commands": 433,
+    "oracle": "independent Gaussian/CRT model"
+  },
+  {
+    "name": "gaussian_crt_dense_10",
+    "file": "gaussian_crt_dense_10.json.gz",
+    "commands": 431,
+    "oracle": "independent Gaussian/CRT model"
+  },
+  {
+    "name": "gaussian_crt_dense_11",
+    "file": "gaussian_crt_dense_11.json.gz",
+    "commands": 435,
+    "oracle": "independent Gaussian/CRT model"
+  },
+  {
+    "name": "curve_composition_0",
+    "file": "curve_composition_0.json.gz",
+    "commands": 399,
+    "oracle": "scalar congruence and cyclic-image formulas"
+  },
+  {
+    "name": "curve_composition_1",
+    "file": "curve_composition_1.json.gz",
+    "commands": 399,
+    "oracle": "scalar congruence and cyclic-image formulas"
+  },
+  {
+    "name": "curve_composition_2",
+    "file": "curve_composition_2.json.gz",
+    "commands": 399,
+    "oracle": "scalar congruence and cyclic-image formulas"
+  },
+  {
+    "name": "curve_composition_3",
+    "file": "curve_composition_3.json.gz",
+    "commands": 399,
+    "oracle": "scalar congruence and cyclic-image formulas"
+  },
+  {
+    "name": "curve_composition_4",
+    "file": "curve_composition_4.json.gz",
+    "commands": 399,
+    "oracle": "scalar congruence and cyclic-image formulas"
+  },
+  {
+    "name": "curve_composition_5",
+    "file": "curve_composition_5.json.gz",
+    "commands": 399,
+    "oracle": "scalar congruence and cyclic-image formulas"
+  },
+  {
+    "name": "curve_composition_6",
+    "file": "curve_composition_6.json.gz",
+    "commands": 399,
+    "oracle": "scalar congruence and cyclic-image formulas"
+  },
+  {
+    "name": "curve_composition_7",
+    "file": "curve_composition_7.json.gz",
+    "commands": 399,
+    "oracle": "scalar congruence and cyclic-image formulas"
+  },
+  {
+    "name": "curve_composition_8",
+    "file": "curve_composition_8.json.gz",
+    "commands": 399,
+    "oracle": "scalar congruence and cyclic-image formulas"
+  },
+  {
+    "name": "curve_composition_9",
+    "file": "curve_composition_9.json.gz",
+    "commands": 399,
+    "oracle": "scalar congruence and cyclic-image formulas"
+  },
+  {
+    "name": "curve_composition_10",
+    "file": "curve_composition_10.json.gz",
+    "commands": 399,
+    "oracle": "scalar congruence and cyclic-image formulas"
+  },
+  {
+    "name": "curve_composition_11",
+    "file": "curve_composition_11.json.gz",
+    "commands": 399,
+    "oracle": "scalar congruence and cyclic-image formulas"
+  },
+  {
+    "name": "curve_composition_12",
+    "file": "curve_composition_12.json.gz",
+    "commands": 399,
+    "oracle": "scalar congruence and cyclic-image formulas"
+  },
+  {
+    "name": "curve_composition_13",
+    "file": "curve_composition_13.json.gz",
+    "commands": 399,
+    "oracle": "scalar congruence and cyclic-image formulas"
+  },
+  {
+    "name": "curve_composition_14",
+    "file": "curve_composition_14.json.gz",
+    "commands": 399,
+    "oracle": "scalar congruence and cyclic-image formulas"
+  },
+  {
+    "name": "curve_composition_15",
+    "file": "curve_composition_15.json.gz",
+    "commands": 399,
+    "oracle": "scalar congruence and cyclic-image formulas"
+  },
+  {
+    "name": "equivalence_quotient_0",
+    "file": "equivalence_quotient_0.json.gz",
+    "commands": 650,
+    "oracle": "congruence-equivalence closed form"
+  },
+  {
+    "name": "equivalence_quotient_1",
+    "file": "equivalence_quotient_1.json.gz",
+    "commands": 650,
+    "oracle": "congruence-equivalence closed form"
+  },
+  {
+    "name": "equivalence_quotient_2",
+    "file": "equivalence_quotient_2.json.gz",
+    "commands": 650,
+    "oracle": "congruence-equivalence closed form"
+  },
+  {
+    "name": "equivalence_quotient_3",
+    "file": "equivalence_quotient_3.json.gz",
+    "commands": 650,
+    "oracle": "congruence-equivalence closed form"
+  },
+  {
+    "name": "pressure_6000_exponential_witnesses",
+    "file": "pressure_6000_exponential_witnesses.json.gz",
+    "commands": 6000,
+    "oracle": "congruence-equivalence closed form"
+  },
+  {
+    "name": "pressure_semiprime_nonsymmetric_composition",
+    "file": "pressure_semiprime_nonsymmetric_composition.json.gz",
+    "commands": 6000,
+    "oracle": "independent affine-function matrix composition"
+  },
+  {
+    "name": "pressure_primepower_nonsymmetric_composition",
+    "file": "pressure_primepower_nonsymmetric_composition.json.gz",
+    "commands": 6000,
+    "oracle": "independent affine-function matrix composition"
+  },
+  {
+    "name": "pressure_dense_primepower_images",
+    "file": "pressure_dense_primepower_images.json.gz",
+    "commands": 6000,
+    "oracle": "unimodular image and invariant-factor formulas"
+  },
+  {
+    "name": "pressure_large_semiprime_dense",
+    "file": "pressure_large_semiprime_dense.json.gz",
+    "commands": 5999,
+    "oracle": "independent Gaussian/CRT model"
+  },
+  {
+    "name": "pressure_256_slots_and_views",
+    "file": "pressure_256_slots_and_views.json.gz",
+    "commands": 5999,
+    "oracle": "independent Gaussian/CRT model"
+  },
+  {
+    "name": "independent_primepower_dense_0",
+    "file": "independent_primepower_dense_0.json.gz",
+    "commands": 113,
+    "oracle": "independent local-ring row/column diagonalization"
+  },
+  {
+    "name": "independent_primepower_dense_1",
+    "file": "independent_primepower_dense_1.json.gz",
+    "commands": 113,
+    "oracle": "independent local-ring row/column diagonalization"
+  },
+  {
+    "name": "independent_primepower_dense_2",
+    "file": "independent_primepower_dense_2.json.gz",
+    "commands": 113,
+    "oracle": "independent local-ring row/column diagonalization"
+  },
+  {
+    "name": "independent_primepower_dense_3",
+    "file": "independent_primepower_dense_3.json.gz",
+    "commands": 113,
+    "oracle": "independent local-ring row/column diagonalization"
+  },
+  {
+    "name": "independent_primepower_dense_4",
+    "file": "independent_primepower_dense_4.json.gz",
+    "commands": 113,
+    "oracle": "independent local-ring row/column diagonalization"
+  },
+  {
+    "name": "independent_primepower_dense_5",
+    "file": "independent_primepower_dense_5.json.gz",
+    "commands": 113,
+    "oracle": "independent local-ring row/column diagonalization"
+  },
+  {
+    "name": "independent_primepower_dense_6",
+    "file": "independent_primepower_dense_6.json.gz",
+    "commands": 113,
+    "oracle": "independent local-ring row/column diagonalization"
+  },
+  {
+    "name": "independent_primepower_dense_7",
+    "file": "independent_primepower_dense_7.json.gz",
+    "commands": 113,
+    "oracle": "independent local-ring row/column diagonalization"
+  },
+  {
+    "name": "independent_primepower_dense_8",
+    "file": "independent_primepower_dense_8.json.gz",
+    "commands": 113,
+    "oracle": "independent local-ring row/column diagonalization"
+  },
+  {
+    "name": "independent_primepower_dense_9",
+    "file": "independent_primepower_dense_9.json.gz",
+    "commands": 113,
+    "oracle": "independent local-ring row/column diagonalization"
+  },
+  {
+    "name": "independent_primepower_dense_10",
+    "file": "independent_primepower_dense_10.json.gz",
+    "commands": 113,
+    "oracle": "independent local-ring row/column diagonalization"
+  },
+  {
+    "name": "independent_primepower_dense_11",
+    "file": "independent_primepower_dense_11.json.gz",
+    "commands": 113,
+    "oracle": "independent local-ring row/column diagonalization"
+  },
+  {
+    "name": "independent_primepower_dense_12",
+    "file": "independent_primepower_dense_12.json.gz",
+    "commands": 113,
+    "oracle": "independent local-ring row/column diagonalization"
+  },
+  {
+    "name": "independent_primepower_dense_13",
+    "file": "independent_primepower_dense_13.json.gz",
+    "commands": 113,
+    "oracle": "independent local-ring row/column diagonalization"
+  },
+  {
+    "name": "independent_primepower_dense_14",
+    "file": "independent_primepower_dense_14.json.gz",
+    "commands": 113,
+    "oracle": "independent local-ring row/column diagonalization"
+  },
+  {
+    "name": "independent_primepower_dense_15",
+    "file": "independent_primepower_dense_15.json.gz",
+    "commands": 113,
+    "oracle": "independent local-ring row/column diagonalization"
+  }
+]

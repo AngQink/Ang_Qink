@@ -1,0 +1,428 @@
+[
+  {
+    "name": "sample_zero_cycle_and_updates",
+    "file": "sample_zero_cycle_and_updates.json.gz",
+    "commands": 9,
+    "oracle": "bounded-height DP and transitive closure"
+  },
+  {
+    "name": "unproductive_cycles_do_not_parse",
+    "file": "unproductive_cycles_do_not_parse.json.gz",
+    "commands": 4,
+    "oracle": "bounded-height DP and transitive closure"
+  },
+  {
+    "name": "cycles_outside_optimal_goal",
+    "file": "cycles_outside_optimal_goal.json.gz",
+    "commands": 6,
+    "oracle": "bounded-height DP and transitive closure"
+  },
+  {
+    "name": "finite_zero_modulus_count",
+    "file": "finite_zero_modulus_count.json.gz",
+    "commands": 2,
+    "oracle": "bounded-height DP and transitive closure"
+  },
+  {
+    "name": "minimum_nodes_before_rule_label",
+    "file": "minimum_nodes_before_rule_label.json.gz",
+    "commands": 2,
+    "oracle": "bounded-height DP and transitive closure"
+  },
+  {
+    "name": "numeric_labels_not_string_or_input_order",
+    "file": "numeric_labels_not_string_or_input_order.json.gz",
+    "commands": 4,
+    "oracle": "bounded-height DP and transitive closure"
+  },
+  {
+    "name": "ordered_children_and_duplicate_occurrences",
+    "file": "ordered_children_and_duplicate_occurrences.json.gz",
+    "commands": 5,
+    "oracle": "bounded-height DP and transitive closure"
+  },
+  {
+    "name": "nullable_binary_self_cycle",
+    "file": "nullable_binary_self_cycle.json.gz",
+    "commands": 4,
+    "oracle": "bounded-height DP and transitive closure"
+  },
+  {
+    "name": "exact_cost_beyond_uint64",
+    "file": "exact_cost_beyond_uint64.json.gz",
+    "commands": 4,
+    "oracle": "bounded-height DP and transitive closure"
+  },
+  {
+    "name": "terminal_mismatch_empty_grammar",
+    "file": "terminal_mismatch_empty_grammar.json.gz",
+    "commands": 4,
+    "oracle": "bounded-height DP and transitive closure"
+  },
+  {
+    "name": "all_snapshot_slots",
+    "file": "all_snapshot_slots.json.gz",
+    "commands": 129,
+    "oracle": "bounded-height DP and transitive closure"
+  },
+  {
+    "name": "nullable_split_both_sides",
+    "file": "nullable_split_both_sides.json.gz",
+    "commands": 4,
+    "oracle": "bounded-height DP and transitive closure"
+  },
+  {
+    "name": "positive_cycle_not_minimum_cost",
+    "file": "positive_cycle_not_minimum_cost.json.gz",
+    "commands": 8,
+    "oracle": "bounded-height DP and transitive closure"
+  },
+  {
+    "name": "disabled_weight_and_value_snapshots",
+    "file": "disabled_weight_and_value_snapshots.json.gz",
+    "commands": 9,
+    "oracle": "bounded-height DP and transitive closure"
+  },
+  {
+    "name": "all_rule_kinds_and_four_terminals",
+    "file": "all_rule_kinds_and_four_terminals.json.gz",
+    "commands": 7,
+    "oracle": "bounded-height DP and transitive closure"
+  },
+  {
+    "name": "small_random_n1_s17",
+    "file": "small_random_n1_s17.json.gz",
+    "commands": 66,
+    "oracle": "bounded-height DP and transitive closure"
+  },
+  {
+    "name": "small_random_n1_s71",
+    "file": "small_random_n1_s71.json.gz",
+    "commands": 66,
+    "oracle": "bounded-height DP and transitive closure"
+  },
+  {
+    "name": "small_random_n1_s137",
+    "file": "small_random_n1_s137.json.gz",
+    "commands": 66,
+    "oracle": "bounded-height DP and transitive closure"
+  },
+  {
+    "name": "small_random_n1_s1017",
+    "file": "small_random_n1_s1017.json.gz",
+    "commands": 64,
+    "oracle": "bounded-height DP and transitive closure"
+  },
+  {
+    "name": "small_random_n1_s65537",
+    "file": "small_random_n1_s65537.json.gz",
+    "commands": 66,
+    "oracle": "bounded-height DP and transitive closure"
+  },
+  {
+    "name": "small_random_n1_s19937",
+    "file": "small_random_n1_s19937.json.gz",
+    "commands": 65,
+    "oracle": "bounded-height DP and transitive closure"
+  },
+  {
+    "name": "small_random_n2_s17",
+    "file": "small_random_n2_s17.json.gz",
+    "commands": 65,
+    "oracle": "bounded-height DP and transitive closure"
+  },
+  {
+    "name": "small_random_n2_s71",
+    "file": "small_random_n2_s71.json.gz",
+    "commands": 65,
+    "oracle": "bounded-height DP and transitive closure"
+  },
+  {
+    "name": "small_random_n2_s137",
+    "file": "small_random_n2_s137.json.gz",
+    "commands": 64,
+    "oracle": "bounded-height DP and transitive closure"
+  },
+  {
+    "name": "small_random_n2_s1017",
+    "file": "small_random_n2_s1017.json.gz",
+    "commands": 66,
+    "oracle": "bounded-height DP and transitive closure"
+  },
+  {
+    "name": "small_random_n2_s65537",
+    "file": "small_random_n2_s65537.json.gz",
+    "commands": 65,
+    "oracle": "bounded-height DP and transitive closure"
+  },
+  {
+    "name": "small_random_n2_s19937",
+    "file": "small_random_n2_s19937.json.gz",
+    "commands": 66,
+    "oracle": "bounded-height DP and transitive closure"
+  },
+  {
+    "name": "small_random_n3_s17",
+    "file": "small_random_n3_s17.json.gz",
+    "commands": 66,
+    "oracle": "bounded-height DP and transitive closure"
+  },
+  {
+    "name": "small_random_n3_s71",
+    "file": "small_random_n3_s71.json.gz",
+    "commands": 66,
+    "oracle": "bounded-height DP and transitive closure"
+  },
+  {
+    "name": "small_random_n3_s137",
+    "file": "small_random_n3_s137.json.gz",
+    "commands": 66,
+    "oracle": "bounded-height DP and transitive closure"
+  },
+  {
+    "name": "small_random_n3_s1017",
+    "file": "small_random_n3_s1017.json.gz",
+    "commands": 64,
+    "oracle": "bounded-height DP and transitive closure"
+  },
+  {
+    "name": "small_random_n3_s65537",
+    "file": "small_random_n3_s65537.json.gz",
+    "commands": 66,
+    "oracle": "bounded-height DP and transitive closure"
+  },
+  {
+    "name": "small_random_n3_s19937",
+    "file": "small_random_n3_s19937.json.gz",
+    "commands": 65,
+    "oracle": "bounded-height DP and transitive closure"
+  },
+  {
+    "name": "small_random_n4_s17",
+    "file": "small_random_n4_s17.json.gz",
+    "commands": 66,
+    "oracle": "bounded-height DP and transitive closure"
+  },
+  {
+    "name": "small_random_n4_s71",
+    "file": "small_random_n4_s71.json.gz",
+    "commands": 61,
+    "oracle": "bounded-height DP and transitive closure"
+  },
+  {
+    "name": "small_random_n4_s137",
+    "file": "small_random_n4_s137.json.gz",
+    "commands": 66,
+    "oracle": "bounded-height DP and transitive closure"
+  },
+  {
+    "name": "small_random_n4_s1017",
+    "file": "small_random_n4_s1017.json.gz",
+    "commands": 66,
+    "oracle": "bounded-height DP and transitive closure"
+  },
+  {
+    "name": "small_random_n4_s65537",
+    "file": "small_random_n4_s65537.json.gz",
+    "commands": 65,
+    "oracle": "bounded-height DP and transitive closure"
+  },
+  {
+    "name": "small_random_n4_s19937",
+    "file": "small_random_n4_s19937.json.gz",
+    "commands": 66,
+    "oracle": "bounded-height DP and transitive closure"
+  },
+  {
+    "name": "catalan_ambiguity_0",
+    "file": "catalan_ambiguity_0.json.gz",
+    "commands": 32,
+    "oracle": "catalan closed formulas"
+  },
+  {
+    "name": "catalan_ambiguity_1",
+    "file": "catalan_ambiguity_1.json.gz",
+    "commands": 32,
+    "oracle": "catalan closed formulas"
+  },
+  {
+    "name": "catalan_ambiguity_2",
+    "file": "catalan_ambiguity_2.json.gz",
+    "commands": 32,
+    "oracle": "catalan closed formulas"
+  },
+  {
+    "name": "catalan_ambiguity_3",
+    "file": "catalan_ambiguity_3.json.gz",
+    "commands": 32,
+    "oracle": "catalan closed formulas"
+  },
+  {
+    "name": "catalan_ambiguity_4",
+    "file": "catalan_ambiguity_4.json.gz",
+    "commands": 32,
+    "oracle": "catalan closed formulas"
+  },
+  {
+    "name": "catalan_ambiguity_5",
+    "file": "catalan_ambiguity_5.json.gz",
+    "commands": 32,
+    "oracle": "catalan closed formulas"
+  },
+  {
+    "name": "catalan_ambiguity_6",
+    "file": "catalan_ambiguity_6.json.gz",
+    "commands": 32,
+    "oracle": "catalan closed formulas"
+  },
+  {
+    "name": "catalan_ambiguity_7",
+    "file": "catalan_ambiguity_7.json.gz",
+    "commands": 32,
+    "oracle": "catalan closed formulas"
+  },
+  {
+    "name": "catalan_ambiguity_8",
+    "file": "catalan_ambiguity_8.json.gz",
+    "commands": 32,
+    "oracle": "catalan closed formulas"
+  },
+  {
+    "name": "catalan_ambiguity_9",
+    "file": "catalan_ambiguity_9.json.gz",
+    "commands": 32,
+    "oracle": "catalan closed formulas"
+  },
+  {
+    "name": "catalan_ambiguity_10",
+    "file": "catalan_ambiguity_10.json.gz",
+    "commands": 32,
+    "oracle": "catalan closed formulas"
+  },
+  {
+    "name": "catalan_ambiguity_11",
+    "file": "catalan_ambiguity_11.json.gz",
+    "commands": 32,
+    "oracle": "catalan closed formulas"
+  },
+  {
+    "name": "exponential_epsilon_chain_0",
+    "file": "exponential_epsilon_chain_0.json.gz",
+    "commands": 33,
+    "oracle": "chain closed formulas"
+  },
+  {
+    "name": "exponential_epsilon_chain_1",
+    "file": "exponential_epsilon_chain_1.json.gz",
+    "commands": 33,
+    "oracle": "chain closed formulas"
+  },
+  {
+    "name": "exponential_epsilon_chain_2",
+    "file": "exponential_epsilon_chain_2.json.gz",
+    "commands": 33,
+    "oracle": "chain closed formulas"
+  },
+  {
+    "name": "exponential_epsilon_chain_3",
+    "file": "exponential_epsilon_chain_3.json.gz",
+    "commands": 33,
+    "oracle": "chain closed formulas"
+  },
+  {
+    "name": "exponential_epsilon_chain_4",
+    "file": "exponential_epsilon_chain_4.json.gz",
+    "commands": 33,
+    "oracle": "chain closed formulas"
+  },
+  {
+    "name": "exponential_epsilon_chain_5",
+    "file": "exponential_epsilon_chain_5.json.gz",
+    "commands": 33,
+    "oracle": "chain closed formulas"
+  },
+  {
+    "name": "exponential_epsilon_chain_6",
+    "file": "exponential_epsilon_chain_6.json.gz",
+    "commands": 33,
+    "oracle": "chain closed formulas"
+  },
+  {
+    "name": "exponential_epsilon_chain_7",
+    "file": "exponential_epsilon_chain_7.json.gz",
+    "commands": 33,
+    "oracle": "chain closed formulas"
+  },
+  {
+    "name": "exponential_epsilon_chain_8",
+    "file": "exponential_epsilon_chain_8.json.gz",
+    "commands": 33,
+    "oracle": "chain closed formulas"
+  },
+  {
+    "name": "exponential_epsilon_chain_9",
+    "file": "exponential_epsilon_chain_9.json.gz",
+    "commands": 32,
+    "oracle": "chain closed formulas"
+  },
+  {
+    "name": "exponential_epsilon_chain_10",
+    "file": "exponential_epsilon_chain_10.json.gz",
+    "commands": 32,
+    "oracle": "chain closed formulas"
+  },
+  {
+    "name": "exponential_epsilon_chain_11",
+    "file": "exponential_epsilon_chain_11.json.gz",
+    "commands": 32,
+    "oracle": "chain closed formulas"
+  },
+  {
+    "name": "pressure_dense_grammar_0",
+    "file": "pressure_dense_grammar_0.json.gz",
+    "commands": 65,
+    "oracle": "catalan closed formulas"
+  },
+  {
+    "name": "pressure_dense_grammar_1",
+    "file": "pressure_dense_grammar_1.json.gz",
+    "commands": 65,
+    "oracle": "catalan closed formulas"
+  },
+  {
+    "name": "pressure_dense_grammar_2",
+    "file": "pressure_dense_grammar_2.json.gz",
+    "commands": 5000,
+    "oracle": "catalan closed formulas"
+  },
+  {
+    "name": "pressure_fat_certificate_0",
+    "file": "pressure_fat_certificate_0.json.gz",
+    "commands": 36,
+    "oracle": "fat closed formulas"
+  },
+  {
+    "name": "pressure_fat_certificate_1",
+    "file": "pressure_fat_certificate_1.json.gz",
+    "commands": 36,
+    "oracle": "fat closed formulas"
+  },
+  {
+    "name": "pressure_fat_certificate_2",
+    "file": "pressure_fat_certificate_2.json.gz",
+    "commands": 36,
+    "oracle": "fat closed formulas"
+  },
+  {
+    "name": "pressure_fat_certificate_3",
+    "file": "pressure_fat_certificate_3.json.gz",
+    "commands": 36,
+    "oracle": "fat closed formulas"
+  },
+  {
+    "name": "pressure_fat_certificate_4",
+    "file": "pressure_fat_certificate_4.json.gz",
+    "commands": 36,
+    "oracle": "fat closed formulas"
+  }
+]

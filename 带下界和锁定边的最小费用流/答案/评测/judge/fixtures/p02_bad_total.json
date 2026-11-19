@@ -1,0 +1,1 @@
+{"name":"p02_bad_total","visibility":"public","mode":"batch","commands":[{"op":"init","vertices":2,"balance":[1,1],"edges":[{"id":22,"u":0,"v":1,"lo":0,"hi":4,"cost":2},{"id":3,"u":0,"v":1,"lo":0,"hi":2,"cost":2}]},{"op":"solve","pins":[],"inspect":[3]}],"expected":[{"ok":true},{"possible":false}]}

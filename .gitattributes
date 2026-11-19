@@ -4,3 +4,4 @@
 *.txt -text whitespace=cr-at-eol
 *.algr binary
 *.bin binary
+**/评测/judge/** -text whitespace=cr-at-eol,-blank-at-eof

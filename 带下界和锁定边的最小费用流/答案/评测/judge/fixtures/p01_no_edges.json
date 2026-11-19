@@ -1,0 +1,1 @@
+{"name":"p01_no_edges","visibility":"public","mode":"interactive","commands":[{"op":"init","vertices":1,"balance":[0],"edges":[]},{"op":"solve","pins":[],"inspect":[]}],"expected":[{"ok":true},{"possible":true,"cost":0,"flow":[],"ranges":[]}]}

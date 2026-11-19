@@ -1,0 +1,1 @@
+{"name":"p11_bounds_block_cycle","visibility":"public","mode":"batch","commands":[{"op":"init","vertices":2,"balance":[0,0],"edges":[{"id":31,"u":0,"v":1,"lo":1,"hi":1,"cost":-3},{"id":32,"u":1,"v":0,"lo":0,"hi":4,"cost":1}]},{"op":"solve","pins":[],"inspect":[31,32]}],"expected":[{"ok":true},{"possible":true,"cost":-2,"flow":[[31,1],[32,1]],"ranges":[[1,1],[1,1]]}]}

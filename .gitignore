@@ -3,3 +3,4 @@ releases/
 __pycache__/
 .pytest_cache/
 *.py[cod]
+report/

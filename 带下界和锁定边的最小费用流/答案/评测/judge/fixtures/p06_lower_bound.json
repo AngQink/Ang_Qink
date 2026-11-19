@@ -1,0 +1,1 @@
+{"name":"p06_lower_bound","visibility":"public","mode":"batch","commands":[{"op":"init","vertices":2,"balance":[1,-1],"edges":[{"id":2,"u":0,"v":1,"lo":2,"hi":4,"cost":4},{"id":7,"u":1,"v":0,"lo":0,"hi":3,"cost":-2}]},{"op":"solve","pins":[],"inspect":[7,2]}],"expected":[{"ok":true},{"possible":true,"cost":6,"flow":[[2,2],[7,1]],"ranges":[[1,1],[2,2]]}]}

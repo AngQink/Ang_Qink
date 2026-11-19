@@ -1,0 +1,1 @@
+{"name":"p04_cannot_send","visibility":"public","mode":"interactive","commands":[{"op":"init","vertices":2,"balance":[2,-2],"edges":[{"id":3,"u":1,"v":0,"lo":0,"hi":3,"cost":0}]},{"op":"solve","pins":[],"inspect":[]}],"expected":[{"ok":true},{"possible":false}]}

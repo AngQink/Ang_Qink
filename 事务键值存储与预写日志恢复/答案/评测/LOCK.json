@@ -1,0 +1,11 @@
+{
+  "entrypoint": "chronicle.py",
+  "runner": "directory",
+  "official_cases": 65,
+  "files": {
+    "judge/judge.py": "d47805c3e3c1ca476c98f6ec30e57bb27fb37b56c384bcecba6906b680c99bea",
+    "judge/support.py": "3abfd72386cb1c44dd618d1697c766d417a1e043b5f309d03e5e6114330d9f32",
+    "judge/cases.py": "f247665f88b71f188eb80655aeb59106958919141e071aab9960a66d740ddab9",
+    "judge/audit_driver.py": "617428cb072741b900d4d3d3bfb8ff56c70be2ebe7d3afeed19581139cbc0178"
+  }
+}

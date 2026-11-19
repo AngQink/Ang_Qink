@@ -1,0 +1,16 @@
+{
+  "entrypoint": "forest.py",
+  "runner": "single",
+  "official_cases": 78,
+  "files": {
+    "judge/judge.py": "35b5276dbd3e042b760ba6bfc16bc9bf123f8661e81e8315a2e7e38af22b3073",
+    "judge/runner.py": "cb3b3a8a0ca9b11d48509787e2c7a94beeb151c66b1b15773bfffa5e9f16d23b",
+    "judge/cases.py": "58d056a1570ebcb873eaf8b2002d8a1dc471ec34e49be267e2e6244ce24cac80",
+    "judge/generate.py": "1611864840ebca91de2cb36354cc2d462ba546f97a0d7c06927b0c609192d8e0",
+    "judge/models.py": "396320e88ee1a0724fab974211424797d6c4b3b23db1e0ba7c7509a0a90764bf",
+    "judge/large_models.py": "a7a1722094eb5ceafa3e0f2e37239673984868257aed1c27fb8921040f98ff3b",
+    "judge/fixtures/scrambled-tree-large.json.gz": "6f59dbd7e5926e7fde27695384150e1520a387a5d4b93cd51d247e9430ad20af",
+    "judge/fixtures/scrambled-tree.json.gz": "1f1effc1d5daab007a17974e411977ed44476e28802f4e18e5b3a97551aeab09"
+  },
+  "source_lock_sha256": "b3fbc29cd7d84e47f26df0a4dcc672e92d9697940c942de5cb21a27c9065ff53"
+}

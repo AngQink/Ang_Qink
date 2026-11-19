@@ -14,6 +14,8 @@
 
 参考实现见 [anchor.py](reference/anchor.py)。它通过了本题随附的 16 项公开测试。用 `python 答案/compare.py` 可从该题的目录运行，并在临时副本中复现。完整输入范围、格式和资源判据见[题目包](../题目/)。
 
+另有 [128 项原正式评测](评测/README.md)，其中包含压力和在线交互场景（以该题裁判为准）。
+
 ## English
 
 ### Solution
@@ -25,3 +27,5 @@
 ### Verification
 
 See the [reference implementation](reference/anchor.py). It passed all 16 bundled public tests. Run `python 答案/compare.py` from the problem directory to repeat the comparison in a temporary copy. For input bounds, output formats, and resource criteria, see the [question package](../题目/).
+
+See the [128-case official suite](评测/README.md) for the original evaluation, including stress and interactive scenarios where applicable.

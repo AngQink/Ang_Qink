@@ -33,18 +33,27 @@ PROBLEMS = {
 def main():
     parser = argparse.ArgumentParser(description=__doc__)
     parser.add_argument("problem", nargs="*", help="problem folder name or English slug")
+    parser.add_argument("--official", action="store_true", help="run the original Windows evaluators")
     args = parser.parse_args()
     chosen = list(dict.fromkeys(PROBLEMS.get(name, name) for name in args.problem))
+    relative = Path("答案") / ("评测/grade.py" if args.official else "compare.py")
     if not chosen:
         chosen = list(PROBLEMS.values())
+        if args.official:
+            chosen = [name for name in chosen if (ROOT / name / relative).is_file()]
+        if not chosen:
+            parser.error("No suites available.")
     for name in chosen:
         if name not in PROBLEMS.values():
             parser.error(f"Unknown problem: {name}")
+        if not (ROOT / name / relative).is_file():
+            suite = "official" if args.official else "public"
+            parser.error(f"No {suite} suite available: {name}")
     failed = []
     for name in chosen:
         folder = ROOT / name
         print(f"\n[{name}]", flush=True)
-        result = subprocess.run([sys.executable, "-B", str(folder / "答案" / "compare.py")], cwd=folder, check=False)
+        result = subprocess.run([sys.executable, "-B", str(folder / relative)], cwd=folder, check=False)
         if result.returncode:
             failed.append(name)
     print(f"\nPassed {len(chosen) - len(failed)}/{len(chosen)} problem packages.")
