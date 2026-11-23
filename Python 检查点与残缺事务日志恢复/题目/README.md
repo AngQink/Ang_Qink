@@ -1,4 +1,6 @@
-# Python 检查点与残缺事务日志恢复 / Python Recovery from Checkpoints and Torn Journals
+# Python 检查点与残缺事务日志恢复
+
+**Python Recovery from Checkpoints and Torn Journals**
 
 ## 中文
 
