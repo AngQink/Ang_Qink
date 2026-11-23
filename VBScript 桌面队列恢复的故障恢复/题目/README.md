@@ -1,4 +1,6 @@
-# VBScript 桌面队列恢复的故障恢复 / VBScript Desktop queue recovery Crash Recovery
+# VBScript 桌面队列恢复的故障恢复
+
+**VBScript Desktop queue recovery Crash Recovery**
 
 ## 中文
 
