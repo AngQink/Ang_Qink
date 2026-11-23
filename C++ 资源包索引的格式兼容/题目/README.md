@@ -1,4 +1,6 @@
-# C++ 资源包索引的格式兼容 / C++ Asset-pack index Format Compatibility
+# C++ 资源包索引的格式兼容
+
+**C++ Asset-pack index Format Compatibility**
 
 ## 中文
 
