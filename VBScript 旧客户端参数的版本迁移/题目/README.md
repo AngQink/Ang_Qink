@@ -1,4 +1,6 @@
-# VBScript 旧客户端参数的版本迁移 / VBScript Legacy client settings Version Migration
+# VBScript 旧客户端参数的版本迁移
+
+**VBScript Legacy client settings Version Migration**
 
 ## 中文
 
