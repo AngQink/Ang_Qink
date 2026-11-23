@@ -1,4 +1,6 @@
-# VB.NET 文件导入批次的缺陷修复 / VB.NET File import batches Repair
+# VB.NET 文件导入批次的缺陷修复
+
+**VB.NET File import batches Repair**
 
 ## 中文
 
