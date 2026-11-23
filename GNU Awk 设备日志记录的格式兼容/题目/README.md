@@ -1,4 +1,6 @@
-# GNU Awk 设备日志记录的格式兼容 / GNU Awk Device log records Format Compatibility
+# GNU Awk 设备日志记录的格式兼容
+
+**GNU Awk Device log records Format Compatibility**
 
 ## 中文
 
