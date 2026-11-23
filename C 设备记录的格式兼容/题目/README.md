@@ -1,4 +1,6 @@
-# C 设备记录的格式兼容 / C Device frames Format Compatibility
+# C 设备记录的格式兼容
+
+**C Device frames Format Compatibility**
 
 ## 中文
 
