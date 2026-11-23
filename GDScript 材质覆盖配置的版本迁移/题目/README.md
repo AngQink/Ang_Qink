@@ -1,4 +1,6 @@
-# GDScript 材质覆盖配置的版本迁移 / GDScript Material overrides Version Migration
+# GDScript 材质覆盖配置的版本迁移
+
+**GDScript Material overrides Version Migration**
 
 ## 中文
 
