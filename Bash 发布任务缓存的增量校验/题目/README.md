@@ -1,4 +1,6 @@
-# Bash 发布任务缓存的增量校验 / Bash Release-job cache Incremental Validation
+# Bash 发布任务缓存的增量校验
+
+**Bash Release-job cache Incremental Validation**
 
 ## 中文
 
