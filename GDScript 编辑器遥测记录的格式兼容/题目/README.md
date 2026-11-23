@@ -1,4 +1,6 @@
-# GDScript 编辑器遥测记录的格式兼容 / GDScript Editor telemetry records Format Compatibility
+# GDScript 编辑器遥测记录的格式兼容
+
+**GDScript Editor telemetry records Format Compatibility**
 
 ## 中文
 
