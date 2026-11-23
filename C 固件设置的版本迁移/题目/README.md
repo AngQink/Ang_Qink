@@ -1,4 +1,6 @@
-# C 固件设置的版本迁移 / C Firmware settings Version Migration
+# C 固件设置的版本迁移
+
+**C Firmware settings Version Migration**
 
 ## 中文
 
