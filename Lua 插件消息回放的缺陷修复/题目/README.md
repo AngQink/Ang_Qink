@@ -1,4 +1,6 @@
-# Lua 插件消息回放的缺陷修复 / Lua Plugin message replay Repair
+# Lua 插件消息回放的缺陷修复
+
+**Lua Plugin message replay Repair**
 
 ## 中文
 
