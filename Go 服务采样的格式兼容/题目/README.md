@@ -1,4 +1,6 @@
-# Go 服务采样的格式兼容 / Go Service samples Format Compatibility
+# Go 服务采样的格式兼容
+
+**Go Service samples Format Compatibility**
 
 ## 中文
 
