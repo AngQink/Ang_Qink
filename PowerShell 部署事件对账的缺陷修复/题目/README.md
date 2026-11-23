@@ -1,4 +1,6 @@
-# PowerShell 部署事件对账的缺陷修复 / PowerShell Deployment event reconciliation Repair
+# PowerShell 部署事件对账的缺陷修复
+
+**PowerShell Deployment event reconciliation Repair**
 
 ## 中文
 
