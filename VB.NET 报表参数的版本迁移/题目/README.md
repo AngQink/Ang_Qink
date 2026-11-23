@@ -1,4 +1,6 @@
-# VB.NET 报表参数的版本迁移 / VB.NET Report settings Version Migration
+# VB.NET 报表参数的版本迁移
+
+**VB.NET Report settings Version Migration**
 
 ## 中文
 
