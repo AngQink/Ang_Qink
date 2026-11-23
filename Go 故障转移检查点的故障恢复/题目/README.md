@@ -1,4 +1,6 @@
-# Go 故障转移检查点的故障恢复 / Go Failover checkpoints Crash Recovery
+# Go 故障转移检查点的故障恢复
+
+**Go Failover checkpoints Crash Recovery**
 
 ## 中文
 
