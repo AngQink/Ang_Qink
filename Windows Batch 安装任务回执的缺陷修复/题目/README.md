@@ -1,4 +1,6 @@
-# Windows Batch 安装任务回执的缺陷修复 / Windows Batch Installation job receipts Repair
+# Windows Batch 安装任务回执的缺陷修复
+
+**Windows Batch Installation job receipts Repair**
 
 ## 中文
 
