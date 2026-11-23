@@ -1,4 +1,6 @@
-# Rust 序列化配置的版本迁移 / Rust Serialized configuration Version Migration
+# Rust 序列化配置的版本迁移
+
+**Rust Serialized configuration Version Migration**
 
 ## 中文
 
