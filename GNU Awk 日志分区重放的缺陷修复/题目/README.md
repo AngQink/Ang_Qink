@@ -1,4 +1,6 @@
-# GNU Awk 日志分区重放的缺陷修复 / GNU Awk Partitioned log replay Repair
+# GNU Awk 日志分区重放的缺陷修复
+
+**GNU Awk Partitioned log replay Repair**
 
 ## 中文
 
