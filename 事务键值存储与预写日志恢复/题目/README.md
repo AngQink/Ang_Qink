@@ -1,4 +1,6 @@
-# 事务键值存储与预写日志恢复 / Transactional Key-Value Storage and Write-Ahead Log Recovery
+# 事务键值存储与预写日志恢复
+
+**Transactional Key-Value Storage and Write-Ahead Log Recovery**
 
 [中文](#中文) · [English](#english)
 
