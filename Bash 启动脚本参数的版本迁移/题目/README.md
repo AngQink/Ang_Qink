@@ -1,4 +1,6 @@
-# Bash 启动脚本参数的版本迁移 / Bash Launcher settings Version Migration
+# Bash 启动脚本参数的版本迁移
+
+**Bash Launcher settings Version Migration**
 
 ## 中文
 
