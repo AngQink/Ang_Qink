@@ -1,4 +1,6 @@
-# C# 批处理分片回放的缺陷修复 / C# Batch-shard replay Repair
+# C# 批处理分片回放的缺陷修复
+
+**C# Batch-shard replay Repair**
 
 ## 中文
 
