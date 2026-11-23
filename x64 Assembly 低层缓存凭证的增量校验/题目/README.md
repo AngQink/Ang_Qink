@@ -1,4 +1,6 @@
-# x64 Assembly 低层缓存凭证的增量校验 / x64 Assembly Low-level cache receipts Incremental Validation
+# x64 Assembly 低层缓存凭证的增量校验
+
+**x64 Assembly Low-level cache receipts Incremental Validation**
 
 ## 中文
 
