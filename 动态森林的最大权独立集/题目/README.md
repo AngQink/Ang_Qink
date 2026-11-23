@@ -1,4 +1,6 @@
-# 动态森林的最大权独立集 / Maximum-Weight Independent Sets in Dynamic Forests
+# 动态森林的最大权独立集
+
+**Maximum-Weight Independent Sets in Dynamic Forests**
 
 [中文](#中文) · [English](#english)
 
