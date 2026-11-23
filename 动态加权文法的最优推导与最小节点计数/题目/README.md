@@ -1,4 +1,6 @@
-# 动态加权文法的最优推导与最小节点计数 / Optimal and Minimum-Node Derivations in a Dynamic Weighted Grammar
+# 动态加权文法的最优推导与最小节点计数
+
+**Optimal and Minimum-Node Derivations in a Dynamic Weighted Grammar**
 
 [中文](#中文) · [English](#english)
 
