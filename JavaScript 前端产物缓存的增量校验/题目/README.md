@@ -1,4 +1,6 @@
-# JavaScript 前端产物缓存的增量校验 / JavaScript Frontend build cache Incremental Validation
+# JavaScript 前端产物缓存的增量校验
+
+**JavaScript Frontend build cache Incremental Validation**
 
 ## 中文
 
