@@ -1,4 +1,6 @@
-# Rust 本地依赖的 Cargo 特性修复 / Rust Cargo Feature Resolution with Local Dependencies
+# Rust 本地依赖的 Cargo 特性修复
+
+**Rust Cargo Feature Resolution with Local Dependencies**
 
 ## 中文
 
