@@ -1,4 +1,6 @@
-# 多协议命令流中的组合计数、最小费用流与同余排名 / Combinatorial Counting, Minimum-Cost Flow, and Congruence Ranking in a Multiplexed Stream
+# 多协议命令流中的组合计数、最小费用流与同余排名
+
+**Combinatorial Counting, Minimum-Cost Flow, and Congruence Ranking in a Multiplexed Stream**
 
 [中文](#中文) · [English](#english)
 
