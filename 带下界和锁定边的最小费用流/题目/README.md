@@ -1,4 +1,6 @@
-# 带下界和锁定边的最小费用流 / Minimum-Cost Flow with Lower Bounds and Fixed Edges
+# 带下界和锁定边的最小费用流
+
+**Minimum-Cost Flow with Lower Bounds and Fixed Edges**
 
 [中文](#中文) · [English](#english)
 
