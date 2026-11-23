@@ -1,4 +1,6 @@
-# GDScript 场景资源事件的缺陷修复 / GDScript Scene-resource events Repair
+# GDScript 场景资源事件的缺陷修复
+
+**GDScript Scene-resource events Repair**
 
 ## 中文
 
