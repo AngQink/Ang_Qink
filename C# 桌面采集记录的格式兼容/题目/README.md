@@ -1,4 +1,6 @@
-# C# 桌面采集记录的格式兼容 / C# Desktop collector records Format Compatibility
+# C# 桌面采集记录的格式兼容
+
+**C# Desktop collector records Format Compatibility**
 
 ## 中文
 
