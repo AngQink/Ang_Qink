@@ -1,4 +1,6 @@
-# 最小费用有向根树的计数与排名 / Counting and Ranking Minimum-Cost Arborescences
+# 最小费用有向根树的计数与排名
+
+**Counting and Ranking Minimum-Cost Arborescences**
 
 [中文](#中文) · [English](#english)
 
