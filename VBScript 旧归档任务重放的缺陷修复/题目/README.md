@@ -1,4 +1,6 @@
-# VBScript 旧归档任务重放的缺陷修复 / VBScript Legacy archival-job replay Repair
+# VBScript 旧归档任务重放的缺陷修复
+
+**VBScript Legacy archival-job replay Repair**
 
 ## 中文
 
