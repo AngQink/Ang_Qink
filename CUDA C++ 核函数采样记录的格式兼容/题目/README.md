@@ -1,4 +1,6 @@
-# CUDA C++ 核函数采样记录的格式兼容 / CUDA C++ Kernel profiling frames Format Compatibility
+# CUDA C++ 核函数采样记录的格式兼容
+
+**CUDA C++ Kernel profiling frames Format Compatibility**
 
 ## 中文
 
