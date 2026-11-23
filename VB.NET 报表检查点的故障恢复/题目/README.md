@@ -1,4 +1,6 @@
-# VB.NET 报表检查点的故障恢复 / VB.NET Report checkpoints Crash Recovery
+# VB.NET 报表检查点的故障恢复
+
+**VB.NET Report checkpoints Crash Recovery**
 
 ## 中文
 
