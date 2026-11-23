@@ -1,4 +1,6 @@
-# Bash 构建事件记录的格式兼容 / Bash Build event records Format Compatibility
+# Bash 构建事件记录的格式兼容
+
+**Bash Build event records Format Compatibility**
 
 ## 中文
 
