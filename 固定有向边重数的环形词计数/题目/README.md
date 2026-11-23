@@ -1,4 +1,6 @@
-# 固定有向边重数的环形词计数 / Counting Circular Words with Prescribed Directed Edge Multiplicities
+# 固定有向边重数的环形词计数
+
+**Counting Circular Words with Prescribed Directed Edge Multiplicities**
 
 [中文](#中文) · [English](#english)
 
