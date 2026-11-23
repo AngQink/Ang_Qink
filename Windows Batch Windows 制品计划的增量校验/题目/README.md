@@ -1,4 +1,6 @@
-# Windows Batch Windows 制品计划的增量校验 / Windows Batch Windows artifact planning Incremental Validation
+# Windows Batch Windows 制品计划的增量校验
+
+**Windows Batch Windows artifact planning Incremental Validation**
 
 ## 中文
 
