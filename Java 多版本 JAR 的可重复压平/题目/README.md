@@ -1,4 +1,6 @@
-# Java 多版本 JAR 的可重复压平 / Java Reproducible Flattening of Multi-Release JARs
+# Java 多版本 JAR 的可重复压平
+
+**Java Reproducible Flattening of Multi-Release JARs**
 
 ## 中文
 
