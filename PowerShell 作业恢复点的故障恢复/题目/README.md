@@ -1,4 +1,6 @@
-# PowerShell 作业恢复点的故障恢复 / PowerShell Job recovery points Crash Recovery
+# PowerShell 作业恢复点的故障恢复
+
+**PowerShell Job recovery points Crash Recovery**
 
 ## 中文
 
