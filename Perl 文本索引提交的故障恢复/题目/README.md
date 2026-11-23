@@ -1,4 +1,6 @@
-# Perl 文本索引提交的故障恢复 / Perl Text-index commits Crash Recovery
+# Perl 文本索引提交的故障恢复
+
+**Perl Text-index commits Crash Recovery**
 
 ## 中文
 
