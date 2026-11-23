@@ -1,4 +1,6 @@
-# CUDA C++ 计算作业参数的版本迁移 / CUDA C++ Compute job settings Version Migration
+# CUDA C++ 计算作业参数的版本迁移
+
+**CUDA C++ Compute job settings Version Migration**
 
 ## 中文
 
