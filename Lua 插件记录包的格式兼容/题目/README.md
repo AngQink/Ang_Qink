@@ -1,4 +1,6 @@
-# Lua 插件记录包的格式兼容 / Lua Plugin record packets Format Compatibility
+# Lua 插件记录包的格式兼容
+
+**Lua Plugin record packets Format Compatibility**
 
 ## 中文
 
