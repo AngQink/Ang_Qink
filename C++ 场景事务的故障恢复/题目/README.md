@@ -1,4 +1,6 @@
-# C++ 场景事务的故障恢复 / C++ Scene transaction Crash Recovery
+# C++ 场景事务的故障恢复
+
+**C++ Scene transaction Crash Recovery**
 
 ## 中文
 
