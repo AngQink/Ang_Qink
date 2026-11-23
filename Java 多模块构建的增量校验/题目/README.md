@@ -1,4 +1,6 @@
-# Java 多模块构建的增量校验 / Java Multi-module build Incremental Validation
+# Java 多模块构建的增量校验
+
+**Java Multi-module build Incremental Validation**
 
 ## 中文
 
