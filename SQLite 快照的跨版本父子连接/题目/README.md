@@ -1,4 +1,6 @@
-# SQLite 快照的跨版本父子连接 / Revision-aware Joins for SQLite Snapshots
+# SQLite 快照的跨版本父子连接
+
+**Revision-aware Joins for SQLite Snapshots**
 
 ## 中文
 
