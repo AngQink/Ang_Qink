@@ -1,4 +1,6 @@
-# SQLite 双账本对账 / Reconciling Two Ledgers in SQLite
+# SQLite 双账本对账
+
+**Reconciling Two Ledgers in SQLite**
 
 ## 中文
 
