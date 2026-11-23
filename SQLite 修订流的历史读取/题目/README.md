@@ -1,4 +1,6 @@
-# SQLite 修订流的历史读取 / As-of Reads over a Revision Stream
+# SQLite 修订流的历史读取
+
+**As-of Reads over a Revision Stream**
 
 ## 中文
 
