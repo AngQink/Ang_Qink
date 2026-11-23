@@ -1,4 +1,6 @@
-# VB.NET 旧版设备报文的格式兼容 / VB.NET Legacy device frames Format Compatibility
+# VB.NET 旧版设备报文的格式兼容
+
+**VB.NET Legacy device frames Format Compatibility**
 
 ## 中文
 
