@@ -1,4 +1,6 @@
-# C++ 渲染资源生命周期的缺陷修复 / C++ Render-resource lifecycle Repair
+# C++ 渲染资源生命周期的缺陷修复
+
+**C++ Render-resource lifecycle Repair**
 
 ## 中文
 
