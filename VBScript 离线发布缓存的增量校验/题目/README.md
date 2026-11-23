@@ -1,4 +1,6 @@
-# VBScript 离线发布缓存的增量校验 / VBScript Offline release cache Incremental Validation
+# VBScript 离线发布缓存的增量校验
+
+**VBScript Offline release cache Incremental Validation**
 
 ## 中文
 
