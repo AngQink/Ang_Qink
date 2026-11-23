@@ -1,4 +1,6 @@
-# 二次相位函数的约束求和 / Constrained Quadratic Phase Sums
+# 二次相位函数的约束求和
+
+**Constrained Quadratic Phase Sums**
 
 [中文](#中文) · [English](#english)
 
