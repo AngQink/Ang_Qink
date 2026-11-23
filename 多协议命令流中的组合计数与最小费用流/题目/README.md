@@ -1,4 +1,6 @@
-# 多协议命令流中的组合计数与最小费用流 / Combinatorial Counting and Minimum-Cost Flow in a Multiplexed Stream
+# 多协议命令流中的组合计数与最小费用流
+
+**Combinatorial Counting and Minimum-Cost Flow in a Multiplexed Stream**
 
 [中文](#中文) · [English](#english)
 
