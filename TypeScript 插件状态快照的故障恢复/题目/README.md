@@ -1,4 +1,6 @@
-# TypeScript 插件状态快照的故障恢复 / TypeScript Plugin checkpoints Crash Recovery
+# TypeScript 插件状态快照的故障恢复
+
+**TypeScript Plugin checkpoints Crash Recovery**
 
 ## 中文
 
