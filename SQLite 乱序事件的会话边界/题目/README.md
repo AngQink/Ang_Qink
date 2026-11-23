@@ -1,4 +1,6 @@
-# SQLite 乱序事件的会话边界 / Session Boundaries for Out-of-Order Events
+# SQLite 乱序事件的会话边界
+
+**Session Boundaries for Out-of-Order Events**
 
 ## 中文
 
