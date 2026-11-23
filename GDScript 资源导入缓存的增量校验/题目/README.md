@@ -1,4 +1,6 @@
-# GDScript 资源导入缓存的增量校验 / GDScript Asset import cache Incremental Validation
+# GDScript 资源导入缓存的增量校验
+
+**GDScript Asset import cache Incremental Validation**
 
 ## 中文
 
