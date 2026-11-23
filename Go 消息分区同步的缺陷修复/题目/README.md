@@ -1,4 +1,6 @@
-# Go 消息分区同步的缺陷修复 / Go Message-partition synchronization Repair
+# Go 消息分区同步的缺陷修复
+
+**Go Message-partition synchronization Repair**
 
 ## 中文
 
