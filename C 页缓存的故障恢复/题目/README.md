@@ -1,4 +1,6 @@
-# C 页缓存的故障恢复 / C Page cache Crash Recovery
+# C 页缓存的故障恢复
+
+**C Page cache Crash Recovery**
 
 ## 中文
 
