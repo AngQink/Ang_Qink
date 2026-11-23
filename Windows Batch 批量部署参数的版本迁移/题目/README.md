@@ -1,4 +1,6 @@
-# Windows Batch 批量部署参数的版本迁移 / Windows Batch Batch deployment settings Version Migration
+# Windows Batch 批量部署参数的版本迁移
+
+**Windows Batch Batch deployment settings Version Migration**
 
 ## 中文
 
