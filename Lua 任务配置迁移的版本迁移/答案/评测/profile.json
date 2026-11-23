@@ -1,0 +1,6 @@
+{
+  "language": "lua",
+  "entry": "main.lua",
+  "timeout": 30,
+  "sha256": "9bddf6d2a50a04197f14bb3269487c3f192cbf63235c6c2be12ed49613966f94"
+}

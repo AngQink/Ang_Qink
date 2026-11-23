@@ -4,7 +4,7 @@
 
 ## 中文
 
-100 道新任务，每种语言或方言 5 道，另有原来的 19 道。每个题包单独发布，含 `题目/` 和 `答案/`。新题包括重放缺陷调试、合成生产器的格式逆向、故障恢复、配置迁移、数据查询、制品生成及编译依赖修复。题面和解析均为中英双语。
+110 道新任务，每种语言或方言 5 道，另有原来的 19 道。每个题包单独发布，含 `题目/` 和 `答案/`。新题包括重放缺陷调试、合成生产器的格式逆向、故障恢复、配置迁移、数据查询、制品生成及编译依赖修复。题面和解析均为中英双语。
 
 1. 将对应的 `题目/` 交给作答者。按 README 完成 `workspace/` 中的交付物并运行公开测试。
 2. 从该题目录运行 `python 答案/评测/grade.py --candidate 题目/workspace --output report` 检查新题提交。去掉参数可验参考解。正式测试使用原始判据或冻结输入，与自测有部分重合。
@@ -14,7 +14,7 @@
 
 ## English
 
-The collection adds 100 tasks, five per language or dialect, alongside the original 19. Each problem has one ZIP containing `题目/` and `答案/`. Tasks cover debugging, synthetic format reconstruction, recovery, configuration, data queries, artifact production, and build dependencies. Instructions and editorials are bilingual.
+The collection adds 110 tasks, five per language or dialect, alongside the original 19. Each problem has one ZIP containing `题目/` and `答案/`. Tasks cover debugging, synthetic format reconstruction, recovery, configuration, data queries, artifact production, and build dependencies. Instructions and editorials are bilingual.
 
 1. Give the solver the `题目/` directory. Complete the required artifact in `workspace/` and run the public tests.
 2. From a problem's root, run `python 答案/评测/grade.py --candidate 题目/workspace --output report` to evaluate a new submission. Omit the arguments to verify the reference. Full and public suites overlap.
@@ -26,7 +26,7 @@ The separation of instructions, reference solutions, and executable verification
 
 ## 新任务 / New Tasks
 
-[Python](#lang-python) · [Java](#lang-java) · [C](#lang-c) · [C++](#lang-cpp) · [Rust](#lang-rust) · [Go](#lang-go) · [JavaScript](#lang-javascript) · [TypeScript](#lang-typescript) · [C#](#lang-csharp) · [VB.NET](#lang-vbnet) · [PowerShell](#lang-powershell) · [Bash](#lang-bash) · [Perl](#lang-perl) · [GNU Awk](#lang-awk) · [Fortran](#lang-fortran) · [VBScript](#lang-vbs) · [Windows Batch](#lang-batch) · [x64 Assembly](#lang-asm) · [CUDA C++](#lang-cuda) · [SQLite SQL](#lang-sql)
+[Python](#lang-python) · [Java](#lang-java) · [C](#lang-c) · [C++](#lang-cpp) · [Rust](#lang-rust) · [Go](#lang-go) · [JavaScript](#lang-javascript) · [TypeScript](#lang-typescript) · [C#](#lang-csharp) · [VB.NET](#lang-vbnet) · [PowerShell](#lang-powershell) · [Bash](#lang-bash) · [Perl](#lang-perl) · [GNU Awk](#lang-awk) · [Fortran](#lang-fortran) · [VBScript](#lang-vbs) · [Windows Batch](#lang-batch) · [x64 Assembly](#lang-asm) · [CUDA C++](#lang-cuda) · [SQLite SQL](#lang-sql) · [Lua](#lang-lua) · [GDScript](#lang-gdscript)
 
 <a id="lang-python"></a>
 
@@ -267,6 +267,30 @@ The separation of instructions, reference solutions, and executable verification
 | SQLite 双账本对账 / Reconciling Two Ledgers in SQLite | [题目 / Problem](SQLite%20%E5%8F%8C%E8%B4%A6%E6%9C%AC%E5%AF%B9%E8%B4%A6/题目/) | [答案 / Solution](SQLite%20%E5%8F%8C%E8%B4%A6%E6%9C%AC%E5%AF%B9%E8%B4%A6/答案/) | 6 | [60](SQLite%20%E5%8F%8C%E8%B4%A6%E6%9C%AC%E5%AF%B9%E8%B4%A6/答案/评测/grade.py) | [ZIP](https://github.com/AngQink/Ang_Qink/releases/download/v2.0.0/sqlite-two-ledger-reconciliation.zip) |
 | SQLite 重叠有效期的优先级归并 / Priority Resolution for Overlapping Effective Intervals | [题目 / Problem](SQLite%20%E9%87%8D%E5%8F%A0%E6%9C%89%E6%95%88%E6%9C%9F%E7%9A%84%E4%BC%98%E5%85%88%E7%BA%A7%E5%BD%92%E5%B9%B6/题目/) | [答案 / Solution](SQLite%20%E9%87%8D%E5%8F%A0%E6%9C%89%E6%95%88%E6%9C%9F%E7%9A%84%E4%BC%98%E5%85%88%E7%BA%A7%E5%BD%92%E5%B9%B6/答案/) | 6 | [60](SQLite%20%E9%87%8D%E5%8F%A0%E6%9C%89%E6%95%88%E6%9C%9F%E7%9A%84%E4%BC%98%E5%85%88%E7%BA%A7%E5%BD%92%E5%B9%B6/答案/评测/grade.py) | [ZIP](https://github.com/AngQink/Ang_Qink/releases/download/v2.0.0/sqlite-effective-interval-priority.zip) |
 | SQLite 快照的跨版本父子连接 / Revision-aware Joins for SQLite Snapshots | [题目 / Problem](SQLite%20%E5%BF%AB%E7%85%A7%E7%9A%84%E8%B7%A8%E7%89%88%E6%9C%AC%E7%88%B6%E5%AD%90%E8%BF%9E%E6%8E%A5/题目/) | [答案 / Solution](SQLite%20%E5%BF%AB%E7%85%A7%E7%9A%84%E8%B7%A8%E7%89%88%E6%9C%AC%E7%88%B6%E5%AD%90%E8%BF%9E%E6%8E%A5/答案/) | 6 | [60](SQLite%20%E5%BF%AB%E7%85%A7%E7%9A%84%E8%B7%A8%E7%89%88%E6%9C%AC%E7%88%B6%E5%AD%90%E8%BF%9E%E6%8E%A5/答案/评测/grade.py) | [ZIP](https://github.com/AngQink/Ang_Qink/releases/download/v2.0.0/sqlite-parent-revision-join.zip) |
+
+<a id="lang-lua"></a>
+
+### Lua (lua)
+
+| 题目 / Problem | 题面 / Statement | 解析 / Solution | 自测 / Public | 正式 / Full | ZIP |
+| --- | --- | --- | ---: | ---: | --- |
+| Lua 插件消息回放的缺陷修复 / Lua Plugin message replay Repair | [题目 / Problem](Lua%20%E6%8F%92%E4%BB%B6%E6%B6%88%E6%81%AF%E5%9B%9E%E6%94%BE%E7%9A%84%E7%BC%BA%E9%99%B7%E4%BF%AE%E5%A4%8D/题目/) | [答案 / Solution](Lua%20%E6%8F%92%E4%BB%B6%E6%B6%88%E6%81%AF%E5%9B%9E%E6%94%BE%E7%9A%84%E7%BC%BA%E9%99%B7%E4%BF%AE%E5%A4%8D/答案/) | 6 | [60](Lua%20%E6%8F%92%E4%BB%B6%E6%B6%88%E6%81%AF%E5%9B%9E%E6%94%BE%E7%9A%84%E7%BC%BA%E9%99%B7%E4%BF%AE%E5%A4%8D/答案/评测/grade.py) | [ZIP](https://github.com/AngQink/Ang_Qink/releases/download/v2.0.0/lua-repair.zip) |
+| Lua 插件记录包的格式兼容 / Lua Plugin record packets Format Compatibility | [题目 / Problem](Lua%20%E6%8F%92%E4%BB%B6%E8%AE%B0%E5%BD%95%E5%8C%85%E7%9A%84%E6%A0%BC%E5%BC%8F%E5%85%BC%E5%AE%B9/题目/) | [答案 / Solution](Lua%20%E6%8F%92%E4%BB%B6%E8%AE%B0%E5%BD%95%E5%8C%85%E7%9A%84%E6%A0%BC%E5%BC%8F%E5%85%BC%E5%AE%B9/答案/) | 6 | [60](Lua%20%E6%8F%92%E4%BB%B6%E8%AE%B0%E5%BD%95%E5%8C%85%E7%9A%84%E6%A0%BC%E5%BC%8F%E5%85%BC%E5%AE%B9/答案/评测/grade.py) | [ZIP](https://github.com/AngQink/Ang_Qink/releases/download/v2.0.0/lua-format.zip) |
+| Lua 插件存储日志的故障恢复 / Lua Plugin storage log Crash Recovery | [题目 / Problem](Lua%20%E6%8F%92%E4%BB%B6%E5%AD%98%E5%82%A8%E6%97%A5%E5%BF%97%E7%9A%84%E6%95%85%E9%9A%9C%E6%81%A2%E5%A4%8D/题目/) | [答案 / Solution](Lua%20%E6%8F%92%E4%BB%B6%E5%AD%98%E5%82%A8%E6%97%A5%E5%BF%97%E7%9A%84%E6%95%85%E9%9A%9C%E6%81%A2%E5%A4%8D/答案/) | 6 | [60](Lua%20%E6%8F%92%E4%BB%B6%E5%AD%98%E5%82%A8%E6%97%A5%E5%BF%97%E7%9A%84%E6%95%85%E9%9A%9C%E6%81%A2%E5%A4%8D/答案/评测/grade.py) | [ZIP](https://github.com/AngQink/Ang_Qink/releases/download/v2.0.0/lua-recovery.zip) |
+| Lua 任务配置迁移的版本迁移 / Lua Task configuration Version Migration | [题目 / Problem](Lua%20%E4%BB%BB%E5%8A%A1%E9%85%8D%E7%BD%AE%E8%BF%81%E7%A7%BB%E7%9A%84%E7%89%88%E6%9C%AC%E8%BF%81%E7%A7%BB/题目/) | [答案 / Solution](Lua%20%E4%BB%BB%E5%8A%A1%E9%85%8D%E7%BD%AE%E8%BF%81%E7%A7%BB%E7%9A%84%E7%89%88%E6%9C%AC%E8%BF%81%E7%A7%BB/答案/) | 6 | [60](Lua%20%E4%BB%BB%E5%8A%A1%E9%85%8D%E7%BD%AE%E8%BF%81%E7%A7%BB%E7%9A%84%E7%89%88%E6%9C%AC%E8%BF%81%E7%A7%BB/答案/评测/grade.py) | [ZIP](https://github.com/AngQink/Ang_Qink/releases/download/v2.0.0/lua-migration.zip) |
+| Lua 脚本部署缓存的增量校验 / Lua Script deployment cache Incremental Validation | [题目 / Problem](Lua%20%E8%84%9A%E6%9C%AC%E9%83%A8%E7%BD%B2%E7%BC%93%E5%AD%98%E7%9A%84%E5%A2%9E%E9%87%8F%E6%A0%A1%E9%AA%8C/题目/) | [答案 / Solution](Lua%20%E8%84%9A%E6%9C%AC%E9%83%A8%E7%BD%B2%E7%BC%93%E5%AD%98%E7%9A%84%E5%A2%9E%E9%87%8F%E6%A0%A1%E9%AA%8C/答案/) | 6 | [60](Lua%20%E8%84%9A%E6%9C%AC%E9%83%A8%E7%BD%B2%E7%BC%93%E5%AD%98%E7%9A%84%E5%A2%9E%E9%87%8F%E6%A0%A1%E9%AA%8C/答案/评测/grade.py) | [ZIP](https://github.com/AngQink/Ang_Qink/releases/download/v2.0.0/lua-build.zip) |
+
+<a id="lang-gdscript"></a>
+
+### GDScript (gdscript)
+
+| 题目 / Problem | 题面 / Statement | 解析 / Solution | 自测 / Public | 正式 / Full | ZIP |
+| --- | --- | --- | ---: | ---: | --- |
+| GDScript 场景资源事件的缺陷修复 / GDScript Scene-resource events Repair | [题目 / Problem](GDScript%20%E5%9C%BA%E6%99%AF%E8%B5%84%E6%BA%90%E4%BA%8B%E4%BB%B6%E7%9A%84%E7%BC%BA%E9%99%B7%E4%BF%AE%E5%A4%8D/题目/) | [答案 / Solution](GDScript%20%E5%9C%BA%E6%99%AF%E8%B5%84%E6%BA%90%E4%BA%8B%E4%BB%B6%E7%9A%84%E7%BC%BA%E9%99%B7%E4%BF%AE%E5%A4%8D/答案/) | 6 | [60](GDScript%20%E5%9C%BA%E6%99%AF%E8%B5%84%E6%BA%90%E4%BA%8B%E4%BB%B6%E7%9A%84%E7%BC%BA%E9%99%B7%E4%BF%AE%E5%A4%8D/答案/评测/grade.py) | [ZIP](https://github.com/AngQink/Ang_Qink/releases/download/v2.0.0/gdscript-repair.zip) |
+| GDScript 编辑器遥测记录的格式兼容 / GDScript Editor telemetry records Format Compatibility | [题目 / Problem](GDScript%20%E7%BC%96%E8%BE%91%E5%99%A8%E9%81%A5%E6%B5%8B%E8%AE%B0%E5%BD%95%E7%9A%84%E6%A0%BC%E5%BC%8F%E5%85%BC%E5%AE%B9/题目/) | [答案 / Solution](GDScript%20%E7%BC%96%E8%BE%91%E5%99%A8%E9%81%A5%E6%B5%8B%E8%AE%B0%E5%BD%95%E7%9A%84%E6%A0%BC%E5%BC%8F%E5%85%BC%E5%AE%B9/答案/) | 6 | [60](GDScript%20%E7%BC%96%E8%BE%91%E5%99%A8%E9%81%A5%E6%B5%8B%E8%AE%B0%E5%BD%95%E7%9A%84%E6%A0%BC%E5%BC%8F%E5%85%BC%E5%AE%B9/答案/评测/grade.py) | [ZIP](https://github.com/AngQink/Ang_Qink/releases/download/v2.0.0/gdscript-format.zip) |
+| GDScript 场景保存检查点的故障恢复 / GDScript Scene save checkpoints Crash Recovery | [题目 / Problem](GDScript%20%E5%9C%BA%E6%99%AF%E4%BF%9D%E5%AD%98%E6%A3%80%E6%9F%A5%E7%82%B9%E7%9A%84%E6%95%85%E9%9A%9C%E6%81%A2%E5%A4%8D/题目/) | [答案 / Solution](GDScript%20%E5%9C%BA%E6%99%AF%E4%BF%9D%E5%AD%98%E6%A3%80%E6%9F%A5%E7%82%B9%E7%9A%84%E6%95%85%E9%9A%9C%E6%81%A2%E5%A4%8D/答案/) | 6 | [60](GDScript%20%E5%9C%BA%E6%99%AF%E4%BF%9D%E5%AD%98%E6%A3%80%E6%9F%A5%E7%82%B9%E7%9A%84%E6%95%85%E9%9A%9C%E6%81%A2%E5%A4%8D/答案/评测/grade.py) | [ZIP](https://github.com/AngQink/Ang_Qink/releases/download/v2.0.0/gdscript-recovery.zip) |
+| GDScript 材质覆盖配置的版本迁移 / GDScript Material overrides Version Migration | [题目 / Problem](GDScript%20%E6%9D%90%E8%B4%A8%E8%A6%86%E7%9B%96%E9%85%8D%E7%BD%AE%E7%9A%84%E7%89%88%E6%9C%AC%E8%BF%81%E7%A7%BB/题目/) | [答案 / Solution](GDScript%20%E6%9D%90%E8%B4%A8%E8%A6%86%E7%9B%96%E9%85%8D%E7%BD%AE%E7%9A%84%E7%89%88%E6%9C%AC%E8%BF%81%E7%A7%BB/答案/) | 6 | [60](GDScript%20%E6%9D%90%E8%B4%A8%E8%A6%86%E7%9B%96%E9%85%8D%E7%BD%AE%E7%9A%84%E7%89%88%E6%9C%AC%E8%BF%81%E7%A7%BB/答案/评测/grade.py) | [ZIP](https://github.com/AngQink/Ang_Qink/releases/download/v2.0.0/gdscript-migration.zip) |
+| GDScript 资源导入缓存的增量校验 / GDScript Asset import cache Incremental Validation | [题目 / Problem](GDScript%20%E8%B5%84%E6%BA%90%E5%AF%BC%E5%85%A5%E7%BC%93%E5%AD%98%E7%9A%84%E5%A2%9E%E9%87%8F%E6%A0%A1%E9%AA%8C/题目/) | [答案 / Solution](GDScript%20%E8%B5%84%E6%BA%90%E5%AF%BC%E5%85%A5%E7%BC%93%E5%AD%98%E7%9A%84%E5%A2%9E%E9%87%8F%E6%A0%A1%E9%AA%8C/答案/) | 6 | [60](GDScript%20%E8%B5%84%E6%BA%90%E5%AF%BC%E5%85%A5%E7%BC%93%E5%AD%98%E7%9A%84%E5%A2%9E%E9%87%8F%E6%A0%A1%E9%AA%8C/答案/评测/grade.py) | [ZIP](https://github.com/AngQink/Ang_Qink/releases/download/v2.0.0/gdscript-build.zip) |
 
 <a id="original-tasks"></a>
 

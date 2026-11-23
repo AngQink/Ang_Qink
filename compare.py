@@ -126,6 +126,16 @@ PROBLEMS = {
     'sqlite-two-ledger-reconciliation': ('SQLite 双账本对账', 'sql', False),
     'sqlite-effective-interval-priority': ('SQLite 重叠有效期的优先级归并', 'sql', False),
     'sqlite-parent-revision-join': ('SQLite 快照的跨版本父子连接', 'sql', False),
+    'lua-repair': ('Lua 插件消息回放的缺陷修复', 'lua', False),
+    'lua-format': ('Lua 插件记录包的格式兼容', 'lua', False),
+    'lua-recovery': ('Lua 插件存储日志的故障恢复', 'lua', False),
+    'lua-migration': ('Lua 任务配置迁移的版本迁移', 'lua', False),
+    'lua-build': ('Lua 脚本部署缓存的增量校验', 'lua', False),
+    'gdscript-repair': ('GDScript 场景资源事件的缺陷修复', 'gdscript', False),
+    'gdscript-format': ('GDScript 编辑器遥测记录的格式兼容', 'gdscript', False),
+    'gdscript-recovery': ('GDScript 场景保存检查点的故障恢复', 'gdscript', False),
+    'gdscript-migration': ('GDScript 材质覆盖配置的版本迁移', 'gdscript', False),
+    'gdscript-build': ('GDScript 资源导入缓存的增量校验', 'gdscript', False),
 }
 
 
