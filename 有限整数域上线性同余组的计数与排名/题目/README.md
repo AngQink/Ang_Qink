@@ -1,4 +1,6 @@
-# 有限整数域上线性同余组的计数与排名 / Counting and Ranking Linear Congruence Solutions over Finite Integer Domains
+# 有限整数域上线性同余组的计数与排名
+
+**Counting and Ranking Linear Congruence Solutions over Finite Integer Domains**
 
 [中文](#中文) · [English](#english)
 
