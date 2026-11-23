@@ -1,4 +1,6 @@
-# JavaScript 客户端事件包的格式兼容 / JavaScript Client event packets Format Compatibility
+# JavaScript 客户端事件包的格式兼容
+
+**JavaScript Client event packets Format Compatibility**
 
 ## 中文
 
