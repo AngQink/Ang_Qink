@@ -1,4 +1,6 @@
-# SQLite 重叠有效期的优先级归并 / Priority Resolution for Overlapping Effective Intervals
+# SQLite 重叠有效期的优先级归并
+
+**Priority Resolution for Overlapping Effective Intervals**
 
 ## 中文
 
