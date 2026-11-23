@@ -1,4 +1,6 @@
-# CUDA C++ 设备快照序列的故障恢复 / CUDA C++ Device snapshot sequence Crash Recovery
+# CUDA C++ 设备快照序列的故障恢复
+
+**CUDA C++ Device snapshot sequence Crash Recovery**
 
 ## 中文
 
