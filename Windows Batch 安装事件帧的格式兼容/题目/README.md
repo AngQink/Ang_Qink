@@ -1,4 +1,6 @@
-# Windows Batch 安装事件帧的格式兼容 / Windows Batch Installation event frames Format Compatibility
+# Windows Batch 安装事件帧的格式兼容
+
+**Windows Batch Installation event frames Format Compatibility**
 
 ## 中文
 
