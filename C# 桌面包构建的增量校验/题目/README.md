@@ -1,4 +1,6 @@
-# C# 桌面包构建的增量校验 / C# Desktop package build Incremental Validation
+# C# 桌面包构建的增量校验
+
+**C# Desktop package build Incremental Validation**
 
 ## 中文
 
