@@ -1,4 +1,6 @@
-# Go 分片制品的校验和重组 / Go Checksummed Artifact Reconstruction
+# Go 分片制品的校验和重组
+
+**Go Checksummed Artifact Reconstruction**
 
 ## 中文
 
