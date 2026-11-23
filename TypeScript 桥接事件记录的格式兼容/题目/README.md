@@ -1,4 +1,6 @@
-# TypeScript 桥接事件记录的格式兼容 / TypeScript Bridge event records Format Compatibility
+# TypeScript 桥接事件记录的格式兼容
+
+**TypeScript Bridge event records Format Compatibility**
 
 ## 中文
 
