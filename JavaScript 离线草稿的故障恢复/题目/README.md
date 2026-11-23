@@ -1,4 +1,6 @@
-# JavaScript 离线草稿的故障恢复 / JavaScript Offline drafts Crash Recovery
+# JavaScript 离线草稿的故障恢复
+
+**JavaScript Offline drafts Crash Recovery**
 
 ## 中文
 
