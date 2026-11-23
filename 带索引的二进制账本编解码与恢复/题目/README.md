@@ -1,4 +1,6 @@
-# 带索引的二进制账本编解码与恢复 / Encoding and Recovery of an Indexed Binary Ledger
+# 带索引的二进制账本编解码与恢复
+
+**Encoding and Recovery of an Indexed Binary Ledger**
 
 [中文](#中文) · [English](#english)
 
