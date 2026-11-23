@@ -1,4 +1,6 @@
-# C++ 双配置 CMake 构建修复 / C++ Dual-Profile CMake Build Repair
+# C++ 双配置 CMake 构建修复
+
+**C++ Dual-Profile CMake Build Repair**
 
 ## 中文
 
