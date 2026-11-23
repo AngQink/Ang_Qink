@@ -1,4 +1,6 @@
-# 多协议命令流中的环形词计数与二次同余 / Circular Word Counting and Quadratic Congruences in a Multiplexed Stream
+# 多协议命令流中的环形词计数与二次同余
+
+**Circular Word Counting and Quadratic Congruences in a Multiplexed Stream**
 
 [中文](#中文) · [English](#english)
 
