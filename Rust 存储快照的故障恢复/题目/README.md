@@ -1,4 +1,6 @@
-# Rust 存储快照的故障恢复 / Rust Storage snapshot Crash Recovery
+# Rust 存储快照的故障恢复
+
+**Rust Storage snapshot Crash Recovery**
 
 ## 中文
 
