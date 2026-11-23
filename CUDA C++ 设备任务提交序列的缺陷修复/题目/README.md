@@ -1,4 +1,6 @@
-# CUDA C++ 设备任务提交序列的缺陷修复 / CUDA C++ Device job submission order Repair
+# CUDA C++ 设备任务提交序列的缺陷修复
+
+**CUDA C++ Device job submission order Repair**
 
 ## 中文
 
