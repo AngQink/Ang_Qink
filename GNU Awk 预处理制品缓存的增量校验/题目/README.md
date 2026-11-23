@@ -1,4 +1,6 @@
-# GNU Awk 预处理制品缓存的增量校验 / GNU Awk Preprocessor artifact cache Incremental Validation
+# GNU Awk 预处理制品缓存的增量校验
+
+**GNU Awk Preprocessor artifact cache Incremental Validation**
 
 ## 中文
 
