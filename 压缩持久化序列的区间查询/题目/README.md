@@ -1,4 +1,6 @@
-# 压缩持久化序列的区间查询 / Range Queries on Compressed Persistent Sequences
+# 压缩持久化序列的区间查询
+
+**Range Queries on Compressed Persistent Sequences**
 
 [中文](#中文) · [English](#english)
 
