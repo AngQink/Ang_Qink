@@ -1,4 +1,6 @@
-# GDScript 场景保存检查点的故障恢复 / GDScript Scene save checkpoints Crash Recovery
+# GDScript 场景保存检查点的故障恢复
+
+**GDScript Scene save checkpoints Crash Recovery**
 
 ## 中文
 
