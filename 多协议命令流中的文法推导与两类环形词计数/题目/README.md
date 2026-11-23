@@ -1,4 +1,6 @@
-# 多协议命令流中的文法推导与两类环形词计数 / Grammar Derivations and Two Circular Word Counting Models in a Multiplexed Stream
+# 多协议命令流中的文法推导与两类环形词计数
+
+**Grammar Derivations and Two Circular Word Counting Models in a Multiplexed Stream**
 
 [中文](#中文) · [English](#english)
 
