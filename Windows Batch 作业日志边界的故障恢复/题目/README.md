@@ -1,4 +1,6 @@
-# Windows Batch 作业日志边界的故障恢复 / Windows Batch Job-log boundaries Crash Recovery
+# Windows Batch 作业日志边界的故障恢复
+
+**Windows Batch Job-log boundaries Crash Recovery**
 
 ## 中文
 
