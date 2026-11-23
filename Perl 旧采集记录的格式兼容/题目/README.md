@@ -1,4 +1,6 @@
-# Perl 旧采集记录的格式兼容 / Perl Legacy collector frames Format Compatibility
+# Perl 旧采集记录的格式兼容
+
+**Perl Legacy collector frames Format Compatibility**
 
 ## 中文
 
