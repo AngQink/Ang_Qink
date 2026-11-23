@@ -1,4 +1,6 @@
-# Java 消费者位点同步的缺陷修复 / Java Consumer offset synchronization Repair
+# Java 消费者位点同步的缺陷修复
+
+**Java Consumer offset synchronization Repair**
 
 ## 中文
 
