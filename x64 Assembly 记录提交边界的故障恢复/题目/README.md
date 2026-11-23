@@ -1,4 +1,6 @@
-# x64 Assembly 记录提交边界的故障恢复 / x64 Assembly Record commit boundaries Crash Recovery
+# x64 Assembly 记录提交边界的故障恢复
+
+**x64 Assembly Record commit boundaries Crash Recovery**
 
 ## 中文
 
