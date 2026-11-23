@@ -1,0 +1,6 @@
+{
+  "language": "fortran",
+  "entry": "main.f90",
+  "timeout": 30,
+  "sha256": "0391b742649f258eba13c6de243654a2e9a9f5cfda3bb1256396ac33bb44b187"
+}

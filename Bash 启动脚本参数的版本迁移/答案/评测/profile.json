@@ -1,0 +1,6 @@
+{
+  "language": "bash",
+  "entry": "main.sh",
+  "timeout": 30,
+  "sha256": "2b1d380279acf8a8da93fbd953f35adc9c9bed1db6028511e9617775811d1cf9"
+}

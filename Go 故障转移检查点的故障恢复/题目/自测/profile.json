@@ -1,0 +1,6 @@
+{
+  "language": "go",
+  "entry": "main.go",
+  "timeout": 30,
+  "sha256": "fcab306bd1a01df46170bd340e0eb780e3040aac67692b25a9f8e30b1a5b7bdb"
+}

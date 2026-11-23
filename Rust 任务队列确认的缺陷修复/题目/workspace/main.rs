@@ -1,0 +1,58 @@
+use std::io::{self,BufRead};
+fn main(){
+    let mut s0=[0i64;32];
+    let mut s1=[0i64;32];
+    let mut s2=[0i64;32];
+    let mut s3=[0i64;32];
+    for line in io::stdin().lock().lines(){
+        let line=line.unwrap();
+        let row:Vec<i64>=line.split_whitespace().map(|x|x.parse().unwrap()).collect();
+        if row[0]==0 { s0.fill(0); s1.fill(0); s2.fill(0); s3.fill(0); }
+        let a=row[0];
+        let b=row[1];
+        let c=row[2];
+        let d=row[3];
+        let e=row[4];
+        let f=row[5];
+        let mut p:i64=0;
+        let mut q:i64=0;
+        let mut r:i64=0;
+        let mut s:i64=0;
+        let mut u:i64=0;
+        let mut v:i64=0;
+        if ((a != 0)) {
+            if ((a == 2)) {
+                if ((c > s0[(b) as usize])) {
+                    s0[(b) as usize] = c;
+                    s1[(b) as usize] = d;
+                    s2[(b) as usize] = 0;
+                    s3[(b) as usize] = 0;
+                    p = 1;
+                }
+            }
+            if ((a == 3)) {
+                p = 2;
+            }
+            if ((a == 1)) {
+                if ((c <= s0[(b) as usize])) {
+                    u = (d - s1[(b) as usize]);
+                    if ((u > 0)) {
+                        v = (s2[(b) as usize] + e);
+                        if ((v >= 0)) {
+                            if ((v <= 75)) {
+                                s1[(b) as usize] = d;
+                                s2[(b) as usize] = v;
+                                s3[(b) as usize] = f;
+                                p = 1;
+                            }
+                        }
+                    }
+                }
+            }
+            q = s0[(b) as usize];
+            r = s1[(b) as usize];
+            s = s2[(b) as usize];
+        }
+        println!("{} {} {} {}", p, q, r, s);
+    }
+}

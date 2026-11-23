@@ -1,0 +1,6 @@
+{
+  "language": "csharp",
+  "entry": "main.cs",
+  "timeout": 30,
+  "sha256": "6d51cdbc78030af380fbe2c13614d17d349ffae6d377d1953a4252952d2115a7"
+}

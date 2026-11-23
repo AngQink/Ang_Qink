@@ -1,0 +1,14 @@
+[package]
+name = "receipt"
+version = "0.1.0"
+edition = "2021"
+resolver = "2"
+
+[dependencies]
+wire = { path = "wire", default-features = false }
+policy = { path = "policy", default-features = false }
+
+[features]
+default = []
+baseline = ["wire/legacy", "policy/legacy"]
+next = ["wire/modern", "policy/modern"]

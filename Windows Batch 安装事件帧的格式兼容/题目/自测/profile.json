@@ -1,0 +1,6 @@
+{
+  "language": "batch",
+  "entry": "main.cmd",
+  "timeout": 90,
+  "sha256": "3a7fdd264b5d5d81ada503cec4f32af9162c0134902c5a74b537515b8fa77c98"
+}

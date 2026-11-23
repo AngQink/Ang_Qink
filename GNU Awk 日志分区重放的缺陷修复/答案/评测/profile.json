@@ -1,0 +1,6 @@
+{
+  "language": "awk",
+  "entry": "main.awk",
+  "timeout": 30,
+  "sha256": "fe480085489753eac34064ce188d1bd10cd01c9ae424ef4615afe7e757198e10"
+}

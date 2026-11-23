@@ -1,0 +1,6 @@
+{
+  "language": "sql",
+  "entry": "main.sql",
+  "timeout": 90,
+  "sha256": "5aab27aa2e61726b8f8c6a0afca96f443b81e9e1df522e147816870a5e72566c"
+}

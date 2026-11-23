@@ -1,0 +1,6 @@
+{
+  "language": "c",
+  "entry": "main.c",
+  "timeout": 30,
+  "sha256": "e458865ca1fbc4a3d94b9e5ebe1c5eff6f2d287e4cbeffeb8a98b2557bbddb40"
+}

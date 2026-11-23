@@ -1,0 +1,6 @@
+{
+  "language": "perl",
+  "entry": "main.pl",
+  "timeout": 30,
+  "sha256": "860e6fb785d3f4f4995e1de8ca9173a8ce1d44d626b8dbc63ccedd3145f365af"
+}

@@ -1,0 +1,6 @@
+{
+  "language": "powershell",
+  "entry": "main.ps1",
+  "timeout": 90,
+  "sha256": "34528a4c6af4420f683413251a2e1e2cab11ed7f55d4a7f63bee850784ce8de2"
+}

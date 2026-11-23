@@ -1,0 +1,12 @@
+[package]
+name = "policy"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+wire = { path = "../wire", default-features = false }
+
+[features]
+default = ["legacy"]
+legacy = ["wire/legacy"]
+modern = ["wire/modern"]

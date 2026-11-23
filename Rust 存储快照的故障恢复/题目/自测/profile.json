@@ -1,0 +1,6 @@
+{
+  "language": "rust",
+  "entry": "main.rs",
+  "timeout": 30,
+  "sha256": "6806ed8f6aa037b3de330aeb4a43b6a78e9be03dd955d3c094863550c1ab75f3"
+}

@@ -1,0 +1,6 @@
+{
+  "language": "asm",
+  "entry": "main.S",
+  "timeout": 30,
+  "sha256": "f56081e89a23e6a2d6e5e4ba3fb2bb452ad07cc7f35ce63cb5e950928399fa6a"
+}

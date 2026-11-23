@@ -1,0 +1,6 @@
+{
+  "language": "typescript",
+  "entry": "main.mts",
+  "timeout": 30,
+  "sha256": "430e6f447c053fed18ac99de21be77c10ed96a498c8115532d35ed1ac4d02ed4"
+}

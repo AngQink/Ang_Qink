@@ -1,0 +1,6 @@
+{
+  "language": "cuda",
+  "entry": "main.cu",
+  "timeout": 90,
+  "sha256": "6129ff61c082d8f62251399242f8ff8dfb641835132cce6181957243989f5497"
+}

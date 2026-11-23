@@ -1,0 +1,6 @@
+{
+  "language": "javascript",
+  "entry": "main.mjs",
+  "timeout": 30,
+  "sha256": "2e539a1cecbf17aa8a646f4d50e5dc8f59291e6596d5ccc54811e1d20724a15c"
+}
