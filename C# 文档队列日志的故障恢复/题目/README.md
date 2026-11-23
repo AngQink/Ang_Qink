@@ -1,4 +1,6 @@
-# C# 文档队列日志的故障恢复 / C# Document queue log Crash Recovery
+# C# 文档队列日志的故障恢复
+
+**C# Document queue log Crash Recovery**
 
 ## 中文
 
