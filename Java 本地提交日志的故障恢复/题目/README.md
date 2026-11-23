@@ -1,4 +1,6 @@
-# Java 本地提交日志的故障恢复 / Java Local commit log Crash Recovery
+# Java 本地提交日志的故障恢复
+
+**Java Local commit log Crash Recovery**
 
 ## 中文
 
