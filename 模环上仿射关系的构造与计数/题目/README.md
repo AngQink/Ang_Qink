@@ -1,4 +1,6 @@
-# 模环上仿射关系的构造与计数 / Construction and Counting of Affine Relations over Modular Rings
+# 模环上仿射关系的构造与计数
+
+**Construction and Counting of Affine Relations over Modular Rings**
 
 [中文](#中文) · [English](#english)
 
