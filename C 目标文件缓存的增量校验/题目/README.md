@@ -1,4 +1,6 @@
-# C 目标文件缓存的增量校验 / C Object-file cache Incremental Validation
+# C 目标文件缓存的增量校验
+
+**C Object-file cache Incremental Validation**
 
 ## 中文
 
