@@ -1,4 +1,6 @@
-# TypeScript 会话状态同步的缺陷修复 / TypeScript Session-state synchronization Repair
+# TypeScript 会话状态同步的缺陷修复
+
+**TypeScript Session-state synchronization Repair**
 
 ## 中文
 
