@@ -1,4 +1,6 @@
-# Lua 脚本部署缓存的增量校验 / Lua Script deployment cache Incremental Validation
+# Lua 脚本部署缓存的增量校验
+
+**Lua Script deployment cache Incremental Validation**
 
 ## 中文
 
