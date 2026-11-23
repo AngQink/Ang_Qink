@@ -1,4 +1,6 @@
-# PowerShell 发布文件清单的增量对账 / PowerShell Release Artifact Inventory Diff
+# PowerShell 发布文件清单的增量对账
+
+**PowerShell Release Artifact Inventory Diff**
 
 ## 中文
 
