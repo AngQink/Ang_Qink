@@ -1,4 +1,6 @@
-# Python 增量构建的增量校验 / Python Incremental build Incremental Validation
+# Python 增量构建的增量校验
+
+**Python Incremental build Incremental Validation**
 
 ## 中文
 
