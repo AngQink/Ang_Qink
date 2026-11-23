@@ -1,4 +1,6 @@
-# Rust 存储块标记的格式兼容 / Rust Storage block tags Format Compatibility
+# Rust 存储块标记的格式兼容
+
+**Rust Storage block tags Format Compatibility**
 
 ## 中文
 
