@@ -1,4 +1,6 @@
-# TypeScript 声明文件缓存的增量校验 / TypeScript Declaration build cache Incremental Validation
+# TypeScript 声明文件缓存的增量校验
+
+**TypeScript Declaration build cache Incremental Validation**
 
 ## 中文
 
