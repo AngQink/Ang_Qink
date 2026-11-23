@@ -1,4 +1,6 @@
-# GNU Awk 表格导入配置的版本迁移 / GNU Awk Tabular import settings Version Migration
+# GNU Awk 表格导入配置的版本迁移
+
+**GNU Awk Tabular import settings Version Migration**
 
 ## 中文
 
