@@ -1,4 +1,6 @@
-# VB.NET 报表生成缓存的增量校验 / VB.NET Report-generation cache Incremental Validation
+# VB.NET 报表生成缓存的增量校验
+
+**VB.NET Report-generation cache Incremental Validation**
 
 ## 中文
 
