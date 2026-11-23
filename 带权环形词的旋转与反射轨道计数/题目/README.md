@@ -1,4 +1,6 @@
-# 带权环形词的旋转与反射轨道计数 / Rotation and Reflection Orbit Counts for Weighted Circular Words
+# 带权环形词的旋转与反射轨道计数
+
+**Rotation and Reflection Orbit Counts for Weighted Circular Words**
 
 [中文](#中文) · [English](#english)
 
