@@ -1,4 +1,6 @@
-# 模二的幂的二次同余计数 / Counting Solutions to Quadratic Congruences Modulo Powers of Two
+# 模二的幂的二次同余计数
+
+**Counting Solutions to Quadratic Congruences Modulo Powers of Two**
 
 [中文](#中文) · [English](#english)
 
