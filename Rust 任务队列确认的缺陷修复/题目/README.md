@@ -1,4 +1,6 @@
-# Rust 任务队列确认的缺陷修复 / Rust Worker-queue acknowledgments Repair
+# Rust 任务队列确认的缺陷修复
+
+**Rust Worker-queue acknowledgments Repair**
 
 ## 中文
 
