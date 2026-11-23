@@ -1,4 +1,6 @@
-# Bash 发布快照的故障恢复 / Bash Release snapshot Crash Recovery
+# Bash 发布快照的故障恢复
+
+**Bash Release snapshot Crash Recovery**
 
 ## 中文
 
