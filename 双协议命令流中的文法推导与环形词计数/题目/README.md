@@ -1,4 +1,6 @@
-# 双协议命令流中的文法推导与环形词计数 / Grammar Derivations and Circular Word Orbits in a Multiplexed Stream
+# 双协议命令流中的文法推导与环形词计数
+
+**Grammar Derivations and Circular Word Orbits in a Multiplexed Stream**
 
 [中文](#中文) · [English](#english)
 
