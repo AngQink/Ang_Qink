@@ -1,4 +1,6 @@
-# GNU Awk 日志快照索引的故障恢复 / GNU Awk Log snapshot index Crash Recovery
+# GNU Awk 日志快照索引的故障恢复
+
+**GNU Awk Log snapshot index Crash Recovery**
 
 ## 中文
 
