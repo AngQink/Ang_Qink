@@ -1,4 +1,6 @@
-# Lua 插件存储日志的故障恢复 / Lua Plugin storage log Crash Recovery
+# Lua 插件存储日志的故障恢复
+
+**Lua Plugin storage log Crash Recovery**
 
 ## 中文
 
