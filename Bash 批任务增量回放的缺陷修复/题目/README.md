@@ -1,4 +1,6 @@
-# Bash 批任务增量回放的缺陷修复 / Bash Batch-job replay Repair
+# Bash 批任务增量回放的缺陷修复
+
+**Bash Batch-job replay Repair**
 
 ## 中文
 
