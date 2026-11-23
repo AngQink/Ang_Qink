@@ -1,4 +1,6 @@
-# JavaScript 插件配置的版本迁移 / JavaScript Plugin configuration Version Migration
+# JavaScript 插件配置的版本迁移
+
+**JavaScript Plugin configuration Version Migration**
 
 ## 中文
 
