@@ -1,4 +1,6 @@
-# C 驱动计数器重放的缺陷修复 / C Driver counter replay Repair
+# C 驱动计数器重放的缺陷修复
+
+**C Driver counter replay Repair**
 
 ## 中文
 
