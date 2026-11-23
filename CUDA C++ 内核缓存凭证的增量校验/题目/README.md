@@ -1,4 +1,6 @@
-# CUDA C++ 内核缓存凭证的增量校验 / CUDA C++ Kernel cache receipts Incremental Validation
+# CUDA C++ 内核缓存凭证的增量校验
+
+**CUDA C++ Kernel cache receipts Incremental Validation**
 
 ## 中文
 
