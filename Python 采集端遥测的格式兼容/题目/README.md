@@ -1,4 +1,6 @@
-# Python 采集端遥测的格式兼容 / Python Collector telemetry Format Compatibility
+# Python 采集端遥测的格式兼容
+
+**Python Collector telemetry Format Compatibility**
 
 ## 中文
 
