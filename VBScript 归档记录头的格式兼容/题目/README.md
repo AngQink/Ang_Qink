@@ -1,4 +1,6 @@
-# VBScript 归档记录头的格式兼容 / VBScript Archive record headers Format Compatibility
+# VBScript 归档记录头的格式兼容
+
+**VBScript Archive record headers Format Compatibility**
 
 ## 中文
 
