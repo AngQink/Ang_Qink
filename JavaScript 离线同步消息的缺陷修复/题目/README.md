@@ -1,4 +1,6 @@
-# JavaScript 离线同步消息的缺陷修复 / JavaScript Offline synchronization messages Repair
+# JavaScript 离线同步消息的缺陷修复
+
+**JavaScript Offline synchronization messages Repair**
 
 ## 中文
 
