@@ -136,7 +136,14 @@ PROBLEMS = {
     'gdscript-recovery': ('GDScript 场景保存检查点的故障恢复', 'gdscript', False),
     'gdscript-migration': ('GDScript 材质覆盖配置的版本迁移', 'gdscript', False),
     'gdscript-build': ('GDScript 资源导入缓存的增量校验', 'gdscript', False),
+    'glyph-evaluator': ('数值表达式求值器的字节级兼容', 'python', False),
+    'glyph80-evaluator': ('八十位浮点求值器的字节级兼容', 'python', False),
+    'ghost-isa-emulator': ('未知指令集模拟器的协议与行为重建', 'python', False),
+    'triad-isa-emulator': ('变体指令集模拟器的协议与行为重建', 'python', False),
 }
+
+
+PARTIAL_ANSWERS = {'glyph80-evaluator'}
 
 
 def evaluator(problem, official):
@@ -158,7 +165,7 @@ def main():
     by_title = {item[0]:slug for slug,item in PROBLEMS.items()}
     names = list(dict.fromkeys(by_title.get(name,name) for name in args.problem))
     if not names:
-        names = [slug for slug,p in PROBLEMS.items() if (args.language is None or p[1]==args.language)
+        names = [slug for slug,p in PROBLEMS.items() if slug not in PARTIAL_ANSWERS and (args.language is None or p[1]==args.language)
                  and (not args.official or evaluator(p, True)[0].is_file())]
     if not names:
         parser.error("No matching evaluators.")

@@ -5,3 +5,8 @@
 *.algr binary
 *.bin binary
 **/评测/judge/** -text whitespace=cr-at-eol,-blank-at-eof
+
+# Retain the archived DeepSeek submissions byte for byte.
+**/答案/reference/glyph.py -text whitespace=cr-at-eol,-blank-at-eof
+**/答案/reference/glyph80.py -text whitespace=cr-at-eol,-blank-at-eof
+**/答案/reference/ghost.py -text whitespace=cr-at-eol,-blank-at-eof
